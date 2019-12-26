@@ -1,11 +1,6 @@
 
 trigger:
 - master
-
-
-pool:
-  vmImage: 'ubuntu-latest'
-  
 - task: DownloadGitHubRelease@0
   inputs:
     connection: 'github connection 1'
@@ -13,12 +8,6 @@ pool:
     defaultVersionType: 'latest'
     downloadPath: '$(System.ArtifactsDirectory)'
 
-#steps:
-#- script: echo Hello, world!
-#  displayName: 'Run a one-line script'
 
-#- script: |
-#    echo Add other tasks to build, test, and deploy your project.
-#    echo See https://aka.ms/yaml
-    
-#  displayName: 'Run a multi-line script'
+
+
