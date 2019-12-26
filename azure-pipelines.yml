@@ -1,4 +1,5 @@
 # Starter pipeline
+
 # Start with a minimal pipeline that you can customize to build and deploy your code.
 # Add steps that build, run tests, deploy, and more:
 # https://aka.ms/yaml
@@ -18,3 +19,9 @@ trigger:
 #    echo See https://aka.ms/yaml
     
 #  displayName: 'Run a multi-line script'
+- task: DownloadGitHubRelease@0
+  inputs:
+    connection: 'github connection 1'
+    userRepository: 'AC34/VSCode-Night-Cruise'
+    defaultVersionType: 'latest'
+    downloadPath: '$(System.ArtifactsDirectory)'
