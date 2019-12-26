@@ -10,13 +10,7 @@ pool:
   vmImage: 'ubuntu-latest'
 
 steps:
-- script: echo Hello, world!
-  displayName: 'Run a one-line script'
 
 - script: |
-    echo Add other tasks to build, test, and deploy your project.
-    echo See https://aka.ms/yaml
-  displayName: 'Run a multi-line script'
-- task: gitmirror@0
-  inputs:
-    GitRepoUrl: 'https://github.com/AC34/VSCode-Night-Cruise.git'
+    echo git push
+  displayName: 'Run a multi-line script
