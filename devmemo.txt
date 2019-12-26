@@ -1,5 +1,5 @@
 
 debug:
- press F5
+ press F5 and new window pops up.
 
 reference:
