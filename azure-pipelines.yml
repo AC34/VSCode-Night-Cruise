@@ -4,3 +4,9 @@ trigger:
 - master
 
 
+- task: DownloadGitHubRelease@0
+  inputs:
+    connection: 'github connection 1'
+    userRepository: 'AC34/VSCode-Night-Cruise'
+    defaultVersionType: 'latest'
+    downloadPath: '$(System.ArtifactsDirectory)'
