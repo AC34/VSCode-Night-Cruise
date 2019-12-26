@@ -2,7 +2,6 @@
 - task: gitmirror@0
   inputs:
     GitRepoUrl: 'https://github.com/AC34/VSCode-Night-Cruise.git'
-
 trigger:
 - master
 - task: DownloadGitHubRelease@0
