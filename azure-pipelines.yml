@@ -13,4 +13,3 @@ steps:
 
 - script: |
     echo git push
-  displayName: 'Run a multi-line script
