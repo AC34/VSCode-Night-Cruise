@@ -2,14 +2,5 @@
 
 trigger:
 - master
-- task: GitHubRelease@1
-  inputs:
-    gitHubConnection: 'github connection 1'
-    repositoryName: 'AC34/VSCode-Night-Cruise'
-    action: 'create'
-    target: '$(Build.SourceVersion)'
-    tagSource: 'gitTag'
-    changeLogCompareToRelease: 'lastFullRelease'
-    changeLogType: 'commitBased'
 
 
