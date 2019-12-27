@@ -3,3 +3,4 @@ debug:
  press F5 and new window pops up.
 
 reference:
+https://docs.microsoft.com/ja-jp/azure/devops/pipelines/index?view=azure-devops
