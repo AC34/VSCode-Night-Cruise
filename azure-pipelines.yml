@@ -1,3 +1,5 @@
+#documentation
+#https://docs.microsoft.com/ja-jp/azure/devops/pipelines/index?view=azure-devops
 
 trigger:
 - master
