@@ -6,7 +6,9 @@ pool:
   vmImage: 'ubuntu-latest'
 
 steps:
-
-#updating github account
-- script: |
-    git push
+- task: DownloadGitHubRelease@0
+  inputs:
+    connection: 'github connection 1'
+    userRepository: 'AC34/VSCode-Night-Cruise'
+    defaultVersionType: 'latest'
+    downloadPath: '$(System.ArtifactsDirectory)'
