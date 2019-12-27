@@ -1,9 +1,7 @@
 
 trigger:
 - master
-
-pool:
-  vmImage: 'ubuntu-latest'
+d
 - task: gitmirror@0
   inputs:
     GitRepoUrl: 'https://github.com/AC34/VSCode-Night-Cruise.git'
