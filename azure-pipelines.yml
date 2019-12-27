@@ -1,7 +1,7 @@
 
 trigger:
 - master
-d
+
 - task: gitmirror@0
   inputs:
-    GitRepoUrl: 'https://github.com/AC34/VSCode-Night-Cruise.git'
+    GitRepoUrl: 'https://github.com/AC34/VSCode-Night-Cruise'
