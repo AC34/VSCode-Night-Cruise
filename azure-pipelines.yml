@@ -2,6 +2,6 @@
 trigger:
 - master
 
-- task: CmdLine@2
+- step: CmdLine@2
   inputs:
     script: 'git pull'
