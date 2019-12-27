@@ -2,6 +2,6 @@
 trigger:
 - master
 
-- step: gitmirror@0
+- task: CmdLine@2
   inputs:
-    GitRepoUrl: 'https://github.com/AC34/VSCode-Night-Cruise'
+    script: 'git pull'
