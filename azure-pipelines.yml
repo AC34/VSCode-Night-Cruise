@@ -1,4 +1,6 @@
-<<<<<<< HEAD
-=======
 #simply triggering download by update:w
->>>>>>> bc3d403ae7d7bb4f8b3fc9fa8442a80f5cfb366f
+triger:
+ - master
+
+task:
+ - bash echo "udpated"
