@@ -1,5 +1,5 @@
 #simply triggering download by update:w
-triger:
+trigger:
  - master
 
 task:
