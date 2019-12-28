@@ -2,9 +2,8 @@
 trigger:
  - master
 
-- task: Bash@3
+- task: CmdLine@2
   inputs:
-    targetType: 'inline'
     script: |
-      #just echoiing
-      echo "synching"
+
+      echo Hello world
