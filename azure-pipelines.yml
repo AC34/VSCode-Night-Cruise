@@ -2,6 +2,12 @@
 trigger:
  - master
 
+pool:
+  vmImage:"ubuntu-latest"
+
 steps:
- - task:
- - bash echo "udpated"
+ - task:  CmdLine@2
+  inputs:
+    script: |
+      echo test echo.
+
