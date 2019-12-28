@@ -6,8 +6,10 @@ pool:
   vmImage:"ubuntu 16.04"
 
 steps:
- - task:  CmdLine@2
-  - inputs:
+- task: CmdLine@2
+  inputs:
     script: |
-      echo test echo.
+      echo Write your commands here
+      
+      echo Hello world
 
