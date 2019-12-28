@@ -7,7 +7,7 @@ pool:
 
 steps:
  - task:  CmdLine@2
-  inputs:
+  - inputs:
     script: |
       echo test echo.
 
