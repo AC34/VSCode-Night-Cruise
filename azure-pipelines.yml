@@ -6,7 +6,6 @@ steps:
 - task: CmdLine@2
   inputs:
     script: |
-      echo Write your commands here
+      echo updates at azure devops.
       
-      echo Hello world
 
