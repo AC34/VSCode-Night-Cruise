@@ -9,14 +9,14 @@ steps:
   inputs:
     command: 'custom'
     customCommand: 'install vsce'
+#pack the theme file
 - task: CmdLine@2
   inputs:
     script: |
-      #pack the theme file
       vsce package
-      #registering publisher shold be done 
-      #elsewhere. skipping registration here. 
+#registering publisher shold be done 
+#elsewhere. skipping registration here. 
+#- task: CmdLine@2
       #publish after packaging.
       #vsce publish
-
 
