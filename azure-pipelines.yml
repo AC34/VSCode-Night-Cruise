@@ -3,10 +3,14 @@ trigger:
  - master
 
 steps:
+#prpare vsce 
+- task: Npm@1
+  inputs:
+    command: 'custom'
+    customCommand: 'install vsce'
+#pack the theme file
 - task: CmdLine@2
   inputs:
     script: |
-      echo updates at azure devops.
-      
-
+      vsce pack
 
