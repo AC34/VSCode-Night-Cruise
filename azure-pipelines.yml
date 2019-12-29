@@ -16,6 +16,6 @@ steps:
       #registering publisher shold be done 
       #elsewhere. skipping registration here. 
       #publish after packaging.
-      vsce publish
+      #vsce publish
 
 
