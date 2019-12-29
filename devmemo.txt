@@ -15,4 +15,10 @@ publish flow:
  vsce create-publisher (publisher name)
  vsce publish
 
- select all organizations or there will be 401 error on token access field.
+Token:
+  scope:
+    Full access
+  Organization:
+    All accessible organizations.
+  If above two aren't correctly set, vsce will output 401 error.
+  
