@@ -4,3 +4,15 @@ debug:
 
 reference:
 https://docs.microsoft.com/ja-jp/azure/devops/pipelines/index?view=azure-devops
+
+azuredevops:
+ publisher=azuredevops's organization
+
+publish flow:
+ #get vsce
+ npm install vsce
+ #regsiter publisher
+ vsce create-publisher (publisher name)
+ vsce publish
+
+ select all organizations or there will be 401 error on token access field.
