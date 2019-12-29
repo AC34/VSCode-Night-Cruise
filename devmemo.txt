@@ -13,6 +13,7 @@ publish flow:
  npm install vsce
  #regsiter publisher
  vsce create-publisher (publisher name)
+ #will be asked: username, email,personal access token.
  vsce publish
 
 Token:
@@ -21,4 +22,3 @@ Token:
   Organization:
     All accessible organizations.
   If above two aren't correctly set, vsce will output 401 error.
-  
