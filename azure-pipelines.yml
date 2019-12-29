@@ -11,5 +11,5 @@ steps:
       
 - task: Npm@1
   inputs:
-    command: 'npm install'
+    command: 'install'
 
