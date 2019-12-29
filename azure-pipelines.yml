@@ -12,5 +12,5 @@ steps:
 - task: Npm@1
   inputs:
     command: 'custom'
-    customCommand: 'install -g vsce'
+    customCommand: 'install vsce'
 
