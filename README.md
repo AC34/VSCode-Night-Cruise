@@ -29,12 +29,12 @@ by AC34
    - Background
      - Deep blue. non-stimulative relaxing color.
    - Accent colors
-     - Lighter blue than background.
+     - Lighter blue than background. Some colors are close to purple.
 #### Editor
    - Backgroud
       - Deeper than UI blue.(easy to distinguish from other UI components)
    - Comment
-      - Light gray.
+      - Light gray. Not too bright, yet still easy to read.
    - language based keywords
       - Light blue.  language based keywords are always predictable.
       - Orange. This alternative color intends to distinguish from the other light blue, while still managint to stay lower than the main gold.
