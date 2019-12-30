@@ -1,10 +1,10 @@
 # Change Log
 
-All notable changes to the "night-cruise" extension will be documented in this file.
+All notable changes to the "Night Cruise" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 ## format
- datees: Y-m-d (UTF 0900 Asia/Tokyo)
+ format:http://keepachangelog.com/ 
+ dates: Y-m-d (UTF 0900 Asia/Tokyo)
 ## [Unreleased]
 
 ##[0.0.1] - 2019-12-30
@@ -12,3 +12,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ##[0.0.2] - 2019-12-30
 ### Changed
 - removing unnecessary lines from README.md
+##[0.0.3] - 2019-12-30
+### Changed
+- started editing CHANGELOG.md
+- modified 
+### Added
+- screenshot
