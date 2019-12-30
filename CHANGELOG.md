@@ -17,4 +17,6 @@ All notable changes to the "Night Cruise" extension will be documented in this f
 - started editing CHANGELOG.md
 - modified pakcage.json label name
 ### Added
-- screenshot
+- screenshot clause.
+### Removed
+- vsc-extension-quickstart.md
