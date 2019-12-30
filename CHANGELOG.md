@@ -15,6 +15,6 @@ All notable changes to the "Night Cruise" extension will be documented in this f
 ##[0.0.3] - 2019-12-30
 ### Changed
 - started editing CHANGELOG.md
-- modified 
+- modified pakcage.json label name
 ### Added
 - screenshot
