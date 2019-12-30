@@ -8,6 +8,9 @@
     "color": "#1a195c",
     "theme": "dark"
   },
+  "engines":{
+    "vscode":"^1.22.0"
+  },
   "categories": [
     "Themes"
   ],
