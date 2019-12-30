@@ -14,9 +14,9 @@ by AC34
   - Press "install" button.
 ### Concept.
 ####  Overview:
- Human kind has long been starring at the night sky, across any civilization you can enumerate.<br><br>
- The core idea of this theme is to implement the familiar night sky vision so that the theme is naturally eye-friendly without distractions and cognitive overloads.<br><br>
- Implementation is carefully done with programmer's point of view so that colors are also syntactically meaningful and easy to distinguish between one another.<br><br>
+ Human kind has long been starring at the night-sky, across any civilization you can enumerate.<br><br>
+ The core idea of this theme is to implement the familiar night-sky vision so that the theme is naturally eye-friendly without distractions and cognitive overloads.<br><br>
+ Implementation is also carefully done with programmer's point of view so that colors are syntactically meaningful, emphasized and easy to distinguish between one another.<br><br>
  Do you still want to keep starring at your theme just aimed at:
   - being dark
   - being colorful for the sake of being colorful
@@ -40,9 +40,12 @@ by AC34
       - Orange. This alternative color intends to distinguish from the other light blue, while still managint to stay lower than the main gold.
    - User defined keywords
       - Gold. This is the core part. A-star-in-the-night-sky-like gold. Your eyes are not catching those characters, but the colors are catching your eyes. This coloring makes it easier for you to face the display through the night.
-
+### Warning
+This theme lets you be focused deeply.<br>
+Make sure you guarantee yourself to be notified about time, to know hours had passed.<br>
+Make managed intervals and voluntarily take some rests.
 ### LICENSE
-see the LICENSE file.
+See the LICENSE file.
 
 ### Announcement
 no announcement.
