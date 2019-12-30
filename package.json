@@ -1,4 +1,27 @@
 {
   "name": "vscode-night-cruise",
+  "publisher": "AC34",
+  "displayName": "Night Cruise",
+  "version": "0.0.1",
+  "description":"An eye-friendly dark theme prividing night-sky like vision for day and night coding.",
+  "galleryBanner": {
+    "color": "#1a195c",
+    "theme": "dark"
+  },
+  "engines":{
+    "vscode":"^1.22.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "VSCode-Night-Cruise",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Night Cruise-color-theme.json"
+      }
+    ]
+  }
   "dependencies": {}
 }
