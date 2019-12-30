@@ -3,6 +3,10 @@
 by AC34
 
 ---
+
+## Screenshot
+
+---
 ## Summary
   An eye-friendly dark theme prividing night-sky like vision for day and night coding.
 
@@ -12,6 +16,7 @@ by AC34
 ## Search and Installation
   - Search "Night Cruise" in your VSCode's extensions market window.
   - Press "install" button.
+
 ## Concept
 ####  Overview:
  Human kind has long been starring at the night-sky, across any civilization you can enumerate.<br><br>
@@ -30,6 +35,7 @@ by AC34
      - Deep blue. non-stimulative relaxing color.
    - Accent colors
      - Lighter blue than background. Some colors are close to purple.
+
 #### Editor
    - Backgroud
       - Deeper than UI blue.(easy to distinguish from other UI components)
@@ -40,10 +46,12 @@ by AC34
       - Orange. This alternative color intends to distinguish from the other light blue, while still managint to stay lower than the main gold.
    - User defined keywords
       - Gold. This is the core part. A-star-in-the-night-sky-like gold. Your eyes are not catching those characters, but the colors are catching your eyes. This coloring makes it easier for you to face the display through the night.
+
 ## Warning
 This theme lets you be focused deeply.<br>
 Make sure you guarantee yourself to be notified about time, to know hours had passed.<br>
 Make managed intervals and voluntarily take some rests.
+
 ## LICENSE
 See the LICENSE file.
 
