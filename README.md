@@ -3,6 +3,8 @@
 by AC34
 
 ---
+### Summary
+  An eye-friendly dark theme prividing night-sky like vision for day and night coding.
 
 ### Requirements
  - VSCode
@@ -21,7 +23,7 @@ by AC34
   - using author's favourite colors
 
  If not, this theme could be your solution.<br><br>
- Feel free to try.
+ **Feel free to try!**
 
 #### UI
    - Background
