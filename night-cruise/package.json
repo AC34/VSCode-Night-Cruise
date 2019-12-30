@@ -3,7 +3,7 @@
   "publisher": "AC34",
   "displayName": "Night Cruise",
   "version": "0.0.1",
-  "description": "",
+  "description":"An eye-friendly dark theme prividing night-sky like vision for day and night coding.",
   "galleryBanner": {
     "color": "#1a195c",
     "theme": "dark"
