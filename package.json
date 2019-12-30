@@ -17,7 +17,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "VSCode-Night-Cruise",
+        "label": "Night Cruise",
         "uiTheme": "vs-dark",
         "path": "./themes/Night Cruise-color-theme.json"
       }
