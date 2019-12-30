@@ -1,18 +1,18 @@
-## "Night Cruise" color theme for VSCode.
+# "Night Cruise" color theme for VSCode.
 
 by AC34
 
 ---
-### Summary
+## Summary
   An eye-friendly dark theme prividing night-sky like vision for day and night coding.
 
-### Requirements
+## Requirements
  - VSCode
 
-### Search and Installation
+## Search and Installation
   - Search "Night Cruise" in your VSCode's extensions market window.
   - Press "install" button.
-### Concept.
+## Concept
 ####  Overview:
  Human kind has long been starring at the night-sky, across any civilization you can enumerate.<br><br>
  The core idea of this theme is to implement the familiar night-sky vision so that the theme is naturally eye-friendly without distractions and cognitive overloads.<br><br>
@@ -40,12 +40,12 @@ by AC34
       - Orange. This alternative color intends to distinguish from the other light blue, while still managint to stay lower than the main gold.
    - User defined keywords
       - Gold. This is the core part. A-star-in-the-night-sky-like gold. Your eyes are not catching those characters, but the colors are catching your eyes. This coloring makes it easier for you to face the display through the night.
-### Warning
+## Warning
 This theme lets you be focused deeply.<br>
 Make sure you guarantee yourself to be notified about time, to know hours had passed.<br>
 Make managed intervals and voluntarily take some rests.
-### LICENSE
+## LICENSE
 See the LICENSE file.
 
-### Announcement
+## Announcement
 no announcement.
