@@ -1,21 +1,23 @@
 {
-    "name": "vscode-night-cruise",
-    "displayName": "VSCode-Night-Cruise",
-    "description": "an easy for eye dark theme. Syntactically meaningful colors.",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.41.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "VSCode-Night-Cruise",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Night Cruise-color-theme.json"
-            }
-        ]
-    }
+  "name": "vscode-night-cruise",
+  "publisher": "AC34",
+  "displayName": "Night Cruise",
+  "version": "0.0.1",
+  "description": "",
+  "galleryBanner": {
+    "color": "#1a195c",
+    "theme": "dark"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "VSCode-Night-Cruise",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Night Cruise-color-theme.json"
+      }
+    ]
+  }
 }
