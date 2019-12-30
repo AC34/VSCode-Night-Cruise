@@ -5,7 +5,7 @@ by AC34
 ---
 
 ## Screenshot
-
+(preparing)
 ---
 ## Summary
   An eye-friendly dark theme prividing night-sky like vision for day and night coding.
