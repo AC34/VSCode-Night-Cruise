@@ -14,7 +14,7 @@ by AC34
   - Press "install" button.
 ### Concept.
 ####  Overview:
- Human kind has long been starring at the night sky. This was part of any civilization you can enumerate.<br><br>
+ Human kind has long been starring at the night sky, across any civilization you can enumerate.<br><br>
  The core idea of this theme is to implement the familiar night sky vision so that the theme is naturally eye-friendly without distractions and cognitive overloads.<br><br>
  Implementation is carefully done with programmer's point of view so that colors are also syntactically meaningful and easy to distinguish between one another.<br><br>
  Do you still want to keep starring at your theme just aimed at:
