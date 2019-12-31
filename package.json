@@ -26,5 +26,11 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/AC34/VSCode-Night-Cruise"
-  }
+  },
+  "keywords":[
+    "night",
+    "cruise",
+    "dark",
+    "color-theme"
+  ]
 }
