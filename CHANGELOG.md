@@ -20,3 +20,6 @@ All notable changes to the "Night Cruise" extension will be documented in this f
 - screenshot clause.
 ### Removed
 - vsc-extension-quickstart.md
+###[0.0.4] -2019-12-31
+### Added
+- screenshot image
