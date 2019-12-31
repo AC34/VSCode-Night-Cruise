@@ -4,8 +4,7 @@ https://code.visualstudio.com/api/references/theme-color
 
 todo:
 
-license
-icon,screenshot,description
+icon
 publish
 tree view
 input border to yellow?
