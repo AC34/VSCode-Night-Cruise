@@ -23,3 +23,6 @@ All notable changes to the "Night Cruise" extension will be documented in this f
 ###[0.0.4] -2019-12-31
 ### Added
 - screenshot image
+###[0.0.6]
+### Added
+- keywords for marketplace
