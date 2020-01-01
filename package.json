@@ -2,7 +2,7 @@
   "name": "vscode-night-cruise",
   "publisher": "AC34",
   "displayName": "Night Cruise",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "An eye-friendly dark theme prividing night-sky like vision for day and night coding.",
   "galleryBanner": {
     "color": "#1a1936",
