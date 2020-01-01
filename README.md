@@ -56,5 +56,5 @@ Make managed intervals and voluntarily take some rests.
 See the LICENSE file.
 
 ## Announcement
-no announcement.
-
+This theme is still incomplete, will revise on some colors.
+Might export this theme to oother editors, once completed.
