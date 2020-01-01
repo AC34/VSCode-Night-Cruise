@@ -3,8 +3,8 @@
    availble on [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=AC34.vscode-night-cruise)
 
    [![LICENSE](https://img.shields.io/github/license/AC34/VSCode-Night-Cruise?style=for-the-badge)](/LICENSE)
+   [![stars](https://img.shields.io/github/stars/AC34/VSCode-Night-Cruise?style=for-the-badge&logo=appveyor&color=green)](https://github.com/AC34?tab=stars)
 ---
-
 ## Screenshot
 ![sample_php-min](https://user-images.githubusercontent.com/54232441/71622872-11596880-2c1c-11ea-8ddd-5530d680b501.png)
 ---
