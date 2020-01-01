@@ -1,7 +1,7 @@
 # "Night Cruise" color theme for VSCode.
+   ![version](https://img.shields.io/github/package-json/v/AC34/VSCode-Night-Cruise?color=4744e7&style=flat-square)
    [![Author](https://img.shields.io/badge/Author-AC34-4744e7?style=flat-square)](https://github.com/AC34)
    [![stars](https://img.shields.io/github/stars/AC34/VSCode-Night-Cruise?style=flat-square&logo=github&color=4744e7)](https://github.com/AC34?tab=stars)
-   ![version](https://img.shields.io/github/package-json/v/AC34/VSCode-Night-Cruise?color=4744e7&style=flat-square)
 ---
 ## Screenshot
 ![sample_php-min](https://user-images.githubusercontent.com/54232441/71622872-11596880-2c1c-11ea-8ddd-5530d680b501.png)
