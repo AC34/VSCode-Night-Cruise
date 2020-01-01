@@ -1,8 +1,5 @@
 # "Night Cruise" color theme for VSCode.
    [![Author](https://img.shields.io/badge/Author-AC34-4744e7?style=flat-square)](https://github.com/AC34)
-   [![Visual Studio Marketplace](https://img.shields.io/badge/Visual%20Studio%20Marketplace-Night%20Cruise-4744e7?style=flat-square&logo=Visual-Studio-Code)](https://marketplace.visualstudio.com/items?itemName=AC34.vscode-night-cruise)
-
-   [![LICENSE](https://img.shields.io/github/license/AC34/VSCode-Night-Cruise?style=flat-square&color=4744e7)](/LICENSE)
    [![stars](https://img.shields.io/github/stars/AC34/VSCode-Night-Cruise?style=flat-square&logo=github&color=4744e7)](https://github.com/AC34?tab=stars)
    ![version](https://img.shields.io/github/package-json/v/AC34/VSCode-Night-Cruise?color=4744e7&style=flat-square)
 ---
@@ -15,9 +12,8 @@
 ## Requirements
  - VSCode
 
-## Search and Installation
-  - Search "Night Cruise" in your VSCode's extensions market window.
-  - Press "install" button.
+## Get it at 
+   [![Visual Studio Marketplace](https://img.shields.io/badge/Visual%20Studio%20Marketplace-Night%20Cruise-4744e7?style=flat-square&logo=Visual-Studio-Code)](https://marketplace.visualstudio.com/items?itemName=AC34.vscode-night-cruise)
 
 ## Concept
 ####  Overview:
@@ -55,7 +51,7 @@ Make sure you guarantee yourself to be notified about time, to know hours had pa
 Make managed intervals and voluntarily take some rests.
 
 ## LICENSE
-See the LICENSE file.
+   [![LICENSE](https://img.shields.io/github/license/AC34/VSCode-Night-Cruise?style=flat-square&color=4744e7)](/LICENSE)
 
 ## Announcement
 This theme is still incomplete, will revise on some colors.
