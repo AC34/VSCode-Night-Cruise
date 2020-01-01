@@ -1,6 +1,6 @@
 # "Night Cruise" color theme for VSCode.
    by AC34<br>
-   [![Visual Studio Marketplace](https://img.shields.io/badge/Available%20on-Visual%20Studio%20Code%20Marketplace-4744e7)](https://marketplace.visualstudio.com/items?itemName=AC34.vscode-night-cruise)
+   [![Visual Studio Marketplace](https://img.shields.io/badge/Visual%20Studio%20Marketplace-Night%20Cruise-4744e7?style=flat-square&logo=Visual-Studio-Code)](https://marketplace.visualstudio.com/items?itemName=AC34.vscode-night-cruise)
 
    [![LICENSE](https://img.shields.io/github/license/AC34/VSCode-Night-Cruise?style=flat-square&color=4744e7)](/LICENSE)
    [![stars](https://img.shields.io/github/stars/AC34/VSCode-Night-Cruise?style=flat-square&logo=github&color=4744e7)](https://github.com/AC34?tab=stars)
