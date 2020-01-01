@@ -32,5 +32,6 @@
     "cruise",
     "dark",
     "color-theme"
-  ]
+  ],
+  "icon": "images/icon.png"
 }
