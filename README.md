@@ -10,9 +10,6 @@
 ## Summary
   An eye-friendly dark theme prividing night-sky like vision for day and night coding.
 
-## Requirements
- - VSCode
-
 ## Get it at 
    [![Visual Studio Marketplace](https://img.shields.io/badge/Visual%20Studio%20Marketplace-Night%20Cruise-4744e7?style=flat-square&logo=Visual-Studio-Code)](https://marketplace.visualstudio.com/items?itemName=AC34.vscode-night-cruise)
 
