@@ -26,3 +26,5 @@ All notable changes to the "Night Cruise" extension will be documented in this f
 ###[0.0.6]
 ### Added
 - keywords for marketplace
+- marketplace icon
+- link to marketplace on README.md
