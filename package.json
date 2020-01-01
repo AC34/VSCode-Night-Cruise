@@ -5,7 +5,7 @@
   "version": "0.0.7",
   "description": "An eye-friendly dark theme prividing night-sky like vision for day and night coding.",
   "galleryBanner": {
-    "color": "#1a195c",
+    "color": "#1a1936",
     "theme": "dark"
   },
   "engines": {

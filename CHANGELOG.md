@@ -30,4 +30,8 @@ All notable changes to the "Night Cruise" extension will be documented in this f
 - link to marketplace on README.md
 - replacing sentences with badges in README.md
 ###[0.0.7] - 2020-1-1
+### Changed
 - linking icon in package.json
+###[0.0.8] - 2020-1-1
+### Changed
+- adapting galleryBanner color to icon
