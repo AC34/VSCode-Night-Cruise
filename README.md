@@ -2,6 +2,7 @@
    by AC34<br>
    availble on [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=AC34.vscode-night-cruise)
 
+   [![LICENSE](https://img.shields.io/github/license/AC34/VSCode-Night-Cruise?style=for-the-badge)](/LICENSE)
 ---
 
 ## Screenshot
