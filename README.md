@@ -1,7 +1,7 @@
 # "Night Cruise" color theme for VSCode.
+   by AC34<br>
+   availble on [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=AC34.vscode-night-cruise)
 
-by AC34<br>
-availble on [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=AC34.vscode-night-cruise)
 ---
 
 ## Screenshot
