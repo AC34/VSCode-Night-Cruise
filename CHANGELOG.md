@@ -28,3 +28,4 @@ All notable changes to the "Night Cruise" extension will be documented in this f
 - keywords for marketplace
 - marketplace icon
 - link to marketplace on README.md
+- replacing sentences with badges in README.md
