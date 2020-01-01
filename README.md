@@ -53,5 +53,4 @@ Make managed intervals and voluntarily take some rests.
    [![LICENSE](https://img.shields.io/github/license/AC34/VSCode-Night-Cruise?style=flat-square&color=4744e7)](/LICENSE)
 
 ## Announcement
-This theme is still incomplete, will revise on some colors.
-Might export this theme to oother editors, once completed.
+This theme is still incomplete, I will revise on some colors.
