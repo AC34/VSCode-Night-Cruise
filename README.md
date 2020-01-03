@@ -6,7 +6,7 @@
    [![stars](https://img.shields.io/github/stars/AC34/VSCode-Night-Cruise?style=flat-square&logo=github&color=4744e7)](https://github.com/AC34?tab=stars)
 ---
 ## Screenshot
-![sample_php-min](https://user-images.githubusercontent.com/54232441/71622872-11596880-2c1c-11ea-8ddd-5530d680b501.png)
+![screenshot](images/screenshot.png)
 ---
 ## Summary
   An eye-friendly dark theme prividing night-sky like vision for day and night coding.
