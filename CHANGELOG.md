@@ -40,3 +40,6 @@ All notable changes to the "Night Cruise" extension will be documented in this f
 - worked on cursor and selection,line number,word highlight,find colors,active line,indent guide,brackets match, etc.
 - panels and widgets have now same background color.
 - revised error red.
+## [0.1.0] - 
+### Changed
+- wordmatch/findMatch were too bright. darkened a bit.
