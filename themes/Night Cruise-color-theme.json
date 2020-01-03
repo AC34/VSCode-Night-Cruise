@@ -61,10 +61,22 @@
 		"editorCursor.background":"#ffac30",
 		"editorCursor.foreground":"#706ee0cc",
 		"editor.selectionBackground":"#4744e766",
-		"editor.selectionForeground":"#9c1717",
+		"editor.selectionForeground":"#ffac30",
 		"editor.selectionHighlightBackground":"#4744e7",
 		"editor.selectionHighlightBorder":"#4744e7",
 		"editor.wordHighlightBackground":"#4744e7",
+		"editor.findMatchBackground": "#4744e7ee",
+		"editor.findMatchHighlightBackground":"#4744e7ee",
+		"editor.findRangeHighlightBackground":"#4744e766",
+		"editor.findMatchBorder":"#706ee0cc",
+		"editor.findMatchHighlightBorder":"#4744e7",
+		"editor.findRangeHighlightBorder":"#4744e766",
+		"editor.lineHighlightBackground":"#050533",
+		"editor.lineHighlightBorder":"#1d1852",
+		"editorIndentGuide.background":"#4744e789",
+		"editorIndentGuide.activeBackground":"#4744e7ee",
+		"editorBracketMatch.background":"#0e0e13",
+		"editorBracketMatch.border":"#d8c2a0"
 	},
 	"tokenColors": [
 		{
