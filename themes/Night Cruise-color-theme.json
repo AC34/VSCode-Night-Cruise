@@ -56,6 +56,8 @@
 		"panelTitle.inactiveForeground":"#a5a5a5",
 		"statusBar.background":"#1a1936",
 		"errorForeground":"#cf4015",
+		"editorLineNumber.foreground":"#9d9ca5",
+		"editorLineNumber.activeForeground":"#d8c2a0",
 		"editorCursor.background":"#ffac30",
 		"editorCursor.foreground":"#706ee0cc",
 		"editor.selectionBackground":"#4744e766",
