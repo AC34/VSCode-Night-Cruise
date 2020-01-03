@@ -55,7 +55,7 @@
 		"panelTitle.activeForeground":"#d8c2a0",
 		"panelTitle.inactiveForeground":"#a5a5a5",
 		"statusBar.background":"#1a1936",
-		"errorforeground":"#cf4015"
+		"errorForeground":"#cf4015"
 	},
 	"tokenColors": [
 		{
