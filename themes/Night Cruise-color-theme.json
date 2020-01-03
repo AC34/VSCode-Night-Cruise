@@ -63,7 +63,8 @@
 		"editor.selectionBackground":"#4744e766",
 		"editor.selectionForeground":"#9c1717",
 		"editor.selectionHighlightBackground":"#4744e7",
-		"editor.selectionHighlightBorder":"#4744e7"
+		"editor.selectionHighlightBorder":"#4744e7",
+		"editor.wordHighlightBackground":"#4744e7",
 	},
 	"tokenColors": [
 		{
