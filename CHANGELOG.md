@@ -36,6 +36,6 @@ All notable changes to the "Night Cruise" extension will be documented in this f
 ### Changed
 - adapting galleryBanner color to icon
 ###[0.0.9] - 2020-1-3
-### Changedj
+### Changed
 - worked on cursor and selection,line number,word highlight,find oclors,aactive line,indent guide,brackets match.
 - revised error red.
