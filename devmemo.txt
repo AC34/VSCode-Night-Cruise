@@ -2,8 +2,11 @@
 debug:
  press F5 and new window pops up.
 
-reference:
+links:
 https://docs.microsoft.com/ja-jp/azure/devops/pipelines/index?view=azure-devops
+color reference
+https://code.visualstudio.com/api/references/theme-color
+
 
 azuredevops:
  publisher=azuredevops's organization
