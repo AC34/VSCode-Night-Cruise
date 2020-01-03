@@ -54,7 +54,8 @@
 		"panel.border":"#27275a",
 		"panelTitle.activeForeground":"#d8c2a0",
 		"panelTitle.inactiveForeground":"#a5a5a5",
-		"statusBar.background":"#1a1936"
+		"statusBar.background":"#1a1936",
+		"errorforeground":"#cf4015"
 	},
 	"tokenColors": [
 		{
@@ -94,7 +95,7 @@
 				"invalid.illegal"
 			],
 			"settings": {
-				"foreground": "#fa2459"
+				"foreground": "#cf4015"
 			}
 		},
 		{
