@@ -55,7 +55,13 @@
 		"panelTitle.activeForeground":"#d8c2a0",
 		"panelTitle.inactiveForeground":"#a5a5a5",
 		"statusBar.background":"#1a1936",
-		"errorForeground":"#cf4015"
+		"errorForeground":"#cf4015",
+		"editorCursor.foreground":"#706ee0cc",
+
+		"editor.selectionBackground":"#4744e766",
+		"editor.selectionForeground":"#9c1717",
+		"editor.selectionHighlightBackground":"#4744e7",
+		"editor.selectionHighlightBorder":"#4744e7"
 	},
 	"tokenColors": [
 		{
