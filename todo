@@ -1,7 +1,33 @@
 todo:
+textBlockQuote
+inputValidation
+tree and list
+badge
+minimap
+editorOvewview*
+editorHoverWidget
+debugExceptionWidget
+editorMarkerNavigation
+PeekView
+MergeConflicts
+statusBarItem
+titlebar
+menubar
+notificatoin
+extension*
+picker
+terminal*
+debugExceptionWidget
+welcome page
+git colors
+settings editor
+BradCrumb
+snippets
+symbolIcon
+debugIcon
+
 revise:
-tree list view
+editorGroup
 
 dunno:
-editor ruler?
 url green
