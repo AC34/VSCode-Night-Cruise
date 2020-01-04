@@ -2,7 +2,6 @@ todo:
 textBlockQuote
 inputValidation
 tree and list
-badge
 minimap
 editorOvewview*
 editorHoverWidget
@@ -27,7 +26,7 @@ symbolIcon
 debugIcon
 
 revise:
-editorGroup
+editorGroup(clearer colors to distinguish active/inactive tabs)
 
 dunno:
 url green
