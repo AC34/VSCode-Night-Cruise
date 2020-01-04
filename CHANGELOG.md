@@ -43,3 +43,4 @@ All notable changes to the "Night Cruise" extension will be documented in this f
 ## [0.1.0] - 
 ### Changed
 - wordmatch/findMatch were too bright. darkened a bit.
+- added diffEditor colors.
