@@ -84,7 +84,9 @@
 		"diffEditor.removedTextBackground":"#c54c2766",
 		"diffEditor.removedTextBorder":"#c54c27",
 		"editorRuler.foreground":"#4744e789",
-		"editorCodeLens.foreground":"#4744e7ee"
+		"editorCodeLens.foreground":"#4744e7ee",
+		"editorLightBulb.foreground":"#d8c2a0",
+		"editorLightBulbAutoFix.foreground":"#d8c2a0"
 	},
 	"tokenColors": [
 		{
