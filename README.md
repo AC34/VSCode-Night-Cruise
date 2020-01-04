@@ -8,32 +8,32 @@
 ## Screenshot
 ![screenshot](images/screenshot.png)
 ---
-## :zap:Summary
-  An eye-friendly:sunglasses: dark theme prividing night-sky:stars: like vision for day and night coding:metal:.
+## ⚡Summary 
+  An eye-friendly😎 dark theme prividing night-sky🌟 like vision for day and night coding🤘.
 
-## :point_right:Get it at 
+## 👉Get it at 
    [![Visual Studio Marketplace](https://img.shields.io/badge/Visual%20Studio%20Marketplace-Night%20Cruise-4744e7?style=flat-square&logo=Visual-Studio-Code)](https://marketplace.visualstudio.com/items?itemName=AC34.vscode-night-cruise)
 
-## :bulb:Concept
+## 💡Concept
 ####  Overview:
- Human kind has long been starring at the night-sky:crescent_moon:, across any civilization you can enumerate.<br><br>
+ Human kind has long been starring at the night-sky🌙, across any civilization you can enumerate.<br><br>
  The core idea of this theme is to implement the familiar night-sky vision so that the theme is naturally eye-friendly without distractions and cognitive overloads.<br><br>
- Implementation is also carefully done with programmer's point of view so that colors are syntactically meaningful:sparkles:, emphasized and easy to distinguish between one another:mag_right:.<br><br>
+ Implementation is also carefully done with programmer's point of view so that colors are syntactically meaningful✨, emphasized and easy to distinguish between one another🚥.<br><br>
  Do you still want to keep starring at your theme just aimed at:
   - being dark
   - being colorful for the sake of being colorful
   - using author's favourite colors
 
- If not, this theme could be your solution.:+1:<br><br>
+ If not, this theme could be your solution.👍<br><br>
  **Feel free to try!**
 
-#### :computer:UI
+#### 🖥️UI
    - Background
      - Deep blue. non-stimulative relaxing color.
    - Accent colors
      - Lighter blue than background. Some colors are close to purple.
 
-#### :notebook:Editor
+#### 📓Editor
    - Backgroud
       - Deeper than UI blue.(easy to distinguish from other UI components)
    - Comment
@@ -44,13 +44,13 @@
    - User defined keywords
       - Gold. This is the core part. A-star-in-the-night-sky-like gold. Your eyes are not catching those characters, but the colors are catching your eyes. This coloring makes it easier for you to face the display through the night.
 
-## :warning:Warning
+## ⚠️Warning
 This theme lets you be focused deeply.<br>
 Make sure you guarantee yourself to be notified about time, to know hours had passed.<br>
 Make managed intervals and voluntarily take some rests.
 
-## :copyright:LICENSE
+## ©️LICENSE
    [![LICENSE](https://img.shields.io/github/license/AC34/VSCode-Night-Cruise?style=flat-square&color=4744e7)](/LICENSE)
 
-## :speech_balloon:Announcement
+## 💬Announcement
 This theme is still incomplete, I will revise on some colors.
