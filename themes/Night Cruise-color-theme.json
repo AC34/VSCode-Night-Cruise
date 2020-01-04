@@ -83,6 +83,7 @@
 		"diffEditor.insertedTextBorder":"#3d71ff",
 		"diffEditor.removedTextBackground":"#c54c2766",
 		"diffEditor.removedTextBorder":"#c54c27",
+		"editorRuler.foreground":"#4744e789"
 	},
 	"tokenColors": [
 		{
