@@ -17,15 +17,15 @@
 ## 💡Concept
 ####  Overview:
  Human kind has long been starring at the night-sky🌙, across any civilization you can enumerate.<br><br>
- The core idea of this theme is to implement the familiar night-sky vision so that the theme is naturally eye-friendly without distractions and cognitive overloads.<br><br>
- Implementation is also carefully done with programmer's point of view so that colors are syntactically meaningful✨, emphasized and easy to distinguish between one another🚥.<br><br>
+ The core idea💡 of this theme is to implement the familiar night-sky vision so that the theme is naturally eye-friendly😎 without distractions and cognitive overloads🧠.<br><br>
+ Implementation is also carefully done with programmer's point of view🤖, so that colors are syntactically meaningful✨, emphasized and easy to distinguish between one another🚥.<br><br>
  Do you still want to keep starring at your theme just aimed at:
   - being dark
   - being colorful for the sake of being colorful
   - using author's favourite colors
 
  If not, this theme could be your solution.👍<br><br>
- **Feel free to try!**
+ **🆓Feel free to try!🆓**
 
 #### 🖥️UI
    - Background
