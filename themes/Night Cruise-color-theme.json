@@ -78,8 +78,11 @@
 		"editorBracketMatch.background":"#0e0e13",
 		"editorBracketMatch.border":"#d8c2a0",
 		"editorWidget.background": "#18181b",
-		"peekViewEditor.background":"#18181b"
-
+		"peekViewEditor.background":"#18181b",
+		"diffEditor.insertedTextBackground":"#3d71ff66",
+		"diffEditor.insertedTextBorder":"#3d71ff",
+		"diffEditor.removedTextBackground":"#c54c2766",
+		"diffEditor.removedTextBorder":"#c54c27",
 	},
 	"tokenColors": [
 		{
