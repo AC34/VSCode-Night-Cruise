@@ -2,24 +2,18 @@ todo:
 textBlockQuote
 inputValidation
 tree and list
-minimap
 editorOvewview*
 editorHoverWidget
 debugExceptionWidget
 editorMarkerNavigation
 PeekView
 MergeConflicts
-statusBarItem
-titlebar
-menubar
-notificatoin
 extension*
 picker
 debugExceptionWidget
 welcome page
 git colors
 settings editor
-BradCrumb
 snippets
 symbolIcon
 debugIcon
@@ -29,3 +23,6 @@ editor tab(clearer colors to distinguish active/inactive tabs)
 
 dunno:
 url green
+
+problem?
+character on cursor on word highlight gets overriden by new highlight. maybe transparent is doing something wrong?
