@@ -2,6 +2,7 @@
 	"name": "Night Cruise",
 	"type": "dark",
 	"colors": {
+		//general
 		"editor.background": "#0e0e13",
 		"editor.foreground": "#9798a5",
 		"icon.foreground":"#9296ca",
@@ -9,18 +10,22 @@
 		"window.activeBorder": "#1a195c",
 		"window.inactiveBorder": "#000000",
 		"focusBorder": "#3f3e64",
-		"widget.shadow":"#131327",
+		"widget.shadow":"#1a1a58",
 		"selection.background":"#acbcff",
+		//buttond
 		"button.background": "#3532db",
 		"button.hoverBackground": "#4744e7",
 		"button.foreground": "#fffce8",
+		//checkbox
 		"checkbox.background": "#3532db",
 		"checkbox.foreground": "#fffce8",
 		"checkbox.border":"#3f3e64",
+		//dropdown
 		"dropdown.background":"#1c1c1f",
 		"dropdown.foreground": "#bebee0",
 		"dropdown.border": "#292858",
 		"dropdown.listBackground": "#1c1c1f",
+		//input
 		"input.background":"#0e0e13",
 		"input.border":"#06060a",
 		"inputOption.activeBorder": "#c0973f",
