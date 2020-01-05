@@ -121,8 +121,8 @@
 		//titleBar
 		"titleBar.activeBackground":"#18181b",
 		"titleBar.activeForeground":"#c0c4ff",
-		"titleBar.inactiveBackground":"#494949",	
-		"titleBar.inactiveForeground":"#494949",
+		"titleBar.inactiveBackground":"#1b1b1b",	
+		"titleBar.inactiveForeground":"#565985",
 		"titleBar.border":"#292858"
 
 	},
