@@ -50,6 +50,7 @@ All notable changes to the "Night Cruise" extension will be documented in this f
 
 ## [0.0.12] - 2020-1-5
 ### Changed
-- added terminal related colors
-- added terminal ansi 16 colors
+- added terminal related colors,terminal ansi 16 colors, Breadcrumbs colors, titleBar colors, tab backgrounds and borders,minimap colors, menu/menubar colors.
 - revised border colors
+- titleBar colors
+- statusBar debugging colors are now same as badge.
