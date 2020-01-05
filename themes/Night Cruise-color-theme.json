@@ -94,9 +94,10 @@
 		"badge.background": "#4744e7",
 		"terminal.background":"#0e0e13",
 		"terminal.foreground":"#9798a5",
-		"terminal.border": "#231f33"
-
-
+		"terminal.border": "#231f33",
+		"terminalCursor.background":"#ffac30",
+		"terminalCursor.foreground":"#706ee0cc",
+		"terminal.selectionBackground":"#4744e766"
 	},
 	"tokenColors": [
 		{
