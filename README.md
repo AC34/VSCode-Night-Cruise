@@ -1,15 +1,18 @@
-# "Night Cruise" color theme for VSCode.
+# "Night Cruise" color theme for VSCode
    ![version](https://img.shields.io/github/package-json/v/AC34/VSCode-Night-Cruise?color=4744e7&style=flat-square)
    ![Installs](https://vsmarketplacebadge.apphb.com/installs/AC34.vscode-night-cruise.svg?style=flat-square&color=4744e7&logo=Visual-Studio-Code)
    ![Ratings](https://vsmarketplacebadge.apphb.com/rating-short/AC34.vscode-night-cruise.svg?style=flat-square&color=4744e7&logo=Visual-Studio-Code)
    [![Author](https://img.shields.io/badge/author-AC34-4744e7?style=flat-square&logo=github)](https://github.com/AC34)
    [![stars](https://img.shields.io/github/stars/AC34/VSCode-Night-Cruise?style=flat-square&logo=github&color=4744e7)](https://github.com/AC34?tab=stars)
 ---
-## Screenshot
-![screenshot](images/screenshot.png)
----
 ## ⚡Summary 
   An eye-friendly😎 dark theme prividing night-sky🌟 like vision for day and night coding🤘.
+<h6 style="text-align:center">overview<h6>
+<img src="images/screenshot.png">
+<h6 style="text-align:center">terminal</h6>
+<img src="images/terminal_colors.png">
+
+---
 
 ## 👉Get it at 
    [![Visual Studio Marketplace](https://img.shields.io/badge/Visual%20Studio%20Marketplace-Night%20Cruise-4744e7?style=flat-square&logo=Visual-Studio-Code)](https://marketplace.visualstudio.com/items?itemName=AC34.vscode-night-cruise)
@@ -46,8 +49,7 @@
 
 ## ⚠️Warning
 This theme lets you be focused deeply.<br>
-Make sure you guarantee yourself to be notified about time, to know hours had passed.<br>
-Make managed intervals and voluntarily take some rests.
+manage focus intervals and take some rests.
 
 ## ©️LICENSE
    [![LICENSE](https://img.shields.io/github/license/AC34/VSCode-Night-Cruise?style=flat-square&color=4744e7)](/LICENSE)
