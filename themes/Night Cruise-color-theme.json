@@ -91,7 +91,11 @@
 		"editorLightBulb.foreground":"#d8c2a0",
 		"editorLightBulbAutoFix.foreground":"#d8c2a0",
 		"badge.foreground": "#f7e8d7",
-		"badge.background": "#4744e7"
+		"badge.background": "#4744e7",
+		"terminal.background":"#0e0e13",
+		"terminal.foreground":"#9798a5",
+
+
 	},
 	"tokenColors": [
 		{
