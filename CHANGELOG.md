@@ -50,5 +50,6 @@ All notable changes to the "Night Cruise" extension will be documented in this f
 
 ## [0.0.12] - 2020-1-5
 ### Changed
-- added terminal colors
+- added terminal related colors
+- added terminal ansi 16 colors
 - revised border colors
