@@ -4,7 +4,7 @@
 	"colors": {
 		"editor.background": "#0e0e13",
 		"editor.foreground": "#9798a5",
-		"sideBarTitle.foreground": "#9296ca",
+		"sideBarTitle.foreground": "#c0c4ff",
 		"icon.foreground":"#9296ca",
 		"descriptionForeground":"#9296ca",
 		"window.activeBorder": "#1a195c",
@@ -36,22 +36,22 @@
 		"activityBar.background":"#16161a",
 		"activityBar.foreground":"#9d9ca5",
 		"activityBar.inactiveForeground":"#464458",
-		"activityBar.border":"#27275a",
+		"activityBar.border":"#292858",
 		"activityBar.activeBorder":"#c0973f",
 		"sideBar.background":"#18181b"
 		,
 		"sideBar.foreground":"#bcbbc5",
-		"sideBar.border":"#231f33",
-		"editorGroup.border":"#231f33",
+		"sideBar.border":"#292858",
+		"editorGroup.border":"#292858",
 		"editorGroup.dropBackground": "#4f4f9caa",
 		"editorGroupHeader.noTabsBackground":"#1c1c1f",
 		"editorGroupHeader.tabsBackground":"#1c1c1f",
 		"editorGroupHeader.tabsBorder":"#1c1c1f",
 		"tab.activeBackground":"#1a1936",
-		"tab.border":"#231f33",
+		"tab.border":"#292858",
 		"tab.activeBorder":"#4744e7",
 		"panel.background":"#18181b",
-		"panel.border":"#231f33",
+		"panel.border":"#292858",
 		"panelTitle.activeForeground":"#d8c2a0",
 		"panelTitle.inactiveForeground":"#a5a5a5",
 		"statusBar.background":"#1a1936",
@@ -95,7 +95,7 @@
 		//terminal colors
 		"terminal.background":"#0e0e13",
 		"terminal.foreground":"#9798a5",
-		"terminal.border": "#231f33",
+		"terminal.border": "#292858",
 		"terminalCursor.background":"#ffac30",
 		"terminalCursor.foreground":"#706ee0cc",
 		"terminal.selectionBackground":"#4744e766",
@@ -117,7 +117,14 @@
 		"terminal.ansiMagenta":"#ca27e7",
 		"terminal.ansiBrightMagenta":"#ce64e0",
 		"terminal.ansiYellow": "#ffac30",
-		"terminal.ansiBrightYellow": "#ffd08a"
+		"terminal.ansiBrightYellow": "#ffd08a",
+		//titleBar
+		"titleBar.activeBackground":"#18181b",
+		"titleBar.activeForeground":"#c0c4ff",
+		"titleBar.inactiveBackground":"#494949",	
+		"titleBar.inactiveForeground":"#494949",
+		"titleBar.border":"#292858"
+
 	},
 	"tokenColors": [
 		{
