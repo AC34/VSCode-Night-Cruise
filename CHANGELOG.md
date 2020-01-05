@@ -47,3 +47,8 @@ All notable changes to the "Night Cruise" extension will be documented in this f
 ## [0.0.11] - 2020-1-4
 ### Changed
 - added ruler color,codeLens color,lightbulb colors,statusBar debug colors,badge colors.
+
+## [0.0.12] - 2020-1-5
+### Changed
+- added terminal colors
+- revised border colors
