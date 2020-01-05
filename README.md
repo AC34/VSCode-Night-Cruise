@@ -55,4 +55,4 @@ manage focus intervals and take some rests.
    [![LICENSE](https://img.shields.io/github/license/AC34/VSCode-Night-Cruise?style=flat-square&color=4744e7)](/LICENSE)
 
 ## 💬Announcement
-This theme is still incomplete, I will revise on some colors.
+This theme is still incomplete.
