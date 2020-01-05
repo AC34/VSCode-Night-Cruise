@@ -92,12 +92,32 @@
 		"editorLightBulbAutoFix.foreground":"#d8c2a0",
 		"badge.foreground": "#f7e8d7",
 		"badge.background": "#4744e7",
+		//terminal colors
 		"terminal.background":"#0e0e13",
 		"terminal.foreground":"#9798a5",
 		"terminal.border": "#231f33",
 		"terminalCursor.background":"#ffac30",
 		"terminalCursor.foreground":"#706ee0cc",
-		"terminal.selectionBackground":"#4744e766"
+		"terminal.selectionBackground":"#4744e766",
+		//black and white
+		"terminal.ansiBlack":"#929292",
+		"terminal.ansiBrightBlack":"#b1b1b1",
+		"terminal.ansiWhite":"#cacaca",
+		"terminal.ansiBrightWhite":"#eeeeee",
+		//RGB
+		"terminal.ansiRed":"#c74219",
+		"terminal.ansiBrightRed":"#d3542d",
+		"terminal.ansiGreen":"#17ee71",
+		"terminal.ansiBrightGreen":"#7de9aa",
+		"terminal.ansiBlue":"#5285f3",
+		"terminal.ansiBrightBlue":"#7ca2f5",
+		//CMY(K)
+		"terminal.ansiCyan":"#20beee",
+		"terminal.ansiBrightCyan":"#6ccdeb",
+		"terminal.ansiMagenta":"#ca27e7",
+		"terminal.ansiBrightMagenta":"#ce64e0",
+		"terminal.ansiYellow": "#ffac30",
+		"terminal.ansiBrightYellow": "#ffd08a"
 	},
 	"tokenColors": [
 		{
