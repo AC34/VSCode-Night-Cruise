@@ -15,7 +15,6 @@ menubar
 notificatoin
 extension*
 picker
-terminal*
 debugExceptionWidget
 welcome page
 git colors
@@ -26,7 +25,7 @@ symbolIcon
 debugIcon
 
 revise:
-editorGroup(clearer colors to distinguish active/inactive tabs)
+editor tab(clearer colors to distinguish active/inactive tabs)
 
 dunno:
 url green
