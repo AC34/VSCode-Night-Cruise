@@ -42,7 +42,7 @@
 		,
 		"sideBar.foreground":"#bcbbc5",
 		"sideBar.border":"#231f33",
-		"editorGroup.border":"#1a195c",
+		"editorGroup.border":"#231f33",
 		"editorGroup.dropBackground": "#4f4f9caa",
 		"editorGroupHeader.noTabsBackground":"#1c1c1f",
 		"editorGroupHeader.tabsBackground":"#1c1c1f",
