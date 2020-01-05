@@ -48,7 +48,7 @@
 		"editorGroupHeader.tabsBackground":"#1c1c1f",
 		"editorGroupHeader.tabsBorder":"#1c1c1f",
 		"tab.activeBackground":"#1a1936",
-		"tab.border":"#0a0a2e",
+		"tab.border":"#231f33",
 		"tab.activeBorder":"#4744e7",
 		"panel.background":"#18181b",
 		"panel.border":"#27275a",
@@ -94,6 +94,7 @@
 		"badge.background": "#4744e7",
 		"terminal.background":"#0e0e13",
 		"terminal.foreground":"#9798a5",
+		"terminal.border": "#231f33"
 
 
 	},
