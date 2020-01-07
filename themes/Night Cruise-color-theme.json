@@ -33,11 +33,11 @@
 		"input.placeholderForeground":"#9d9ca5",
 		//scrollbar
 		"scrollbar.shadow":"#131e4d",
-		"scrollbarSlider.activeBackground":"#4744e7",
+		"scrollbarSlider.activeBackground":"#4744e798",
 		"scrollbarSlider.hoverBackground": "#3e3cc7",
 		//minimap
 		"minimap.findMatchHighlight":"#378dff",
-		"minimap.selectionHighlight":"#bbff00",
+		"minimap.selectionHighlight":"#9594e7",
 		"minimap.errorHighlight":"#d43200",
 		"minimap.warningHighlight": "#eee12a",
 		"minimapGutter.addedBackground": "#3d71ff",
@@ -83,11 +83,11 @@
 		"tab.unfocusedHoverBorder":"#ffac30",
 		"tab.unfocusedInactiveForeground": "#9d9ca5",
 		//BreadCrumbs
-		"breadcrumb.background":"#0a0a11",
+		"breadcrumb.background":"#18181b",
 		"breadcrumb.foreground":"#9d9ca5",
 		"breadcrumb.focusForeground":"#f7e8d7",
 		"breadcrumb.activeSelectionForeground":"#ffac30",
-		"breadcrumbPicker.background":"#292858",
+		"breadcrumbPicker.background":"#18181b",
 		//panels
 		"panel.background":"#18181b",
 		"panel.border":"#292858",
@@ -142,7 +142,7 @@
 		"editor.findMatchBackground": "#4744e7ee",
 		"editor.findMatchHighlightBackground":"#2d2b83",
 		"editor.findRangeHighlightBackground":"#4744e7",
-		"editor.findMatchBorder":"#706ee0cc",
+		"editor.findMatchBorder":"#515083cc",
 		"editor.findMatchHighlightBorder":"#4744e7",
 		"editor.findRangeHighlightBorder":"#4744e766",
 		"editor.lineHighlightBackground":"#050533",
@@ -163,10 +163,34 @@
 		"editorCodeLens.foreground":"#4744e7ee",
 		"editorLightBulb.foreground":"#d8c2a0",
 		"editorLightBulbAutoFix.foreground":"#d8c2a0",
+		//git
+		"gitDecoration.addedResourceForeground": "#378dff",
+		"gitDecoration.deletedResourceForeground": "#c54c27",
+		"gitDecoration.submoduleResourceForeground": "#d8c2a0",
+		"gitDecoration.modifiedResourceForeground": "#26dad1",
+		"gitDecoration.untrackedResourceForeground": "#7d7999",
+		"gitDecoration.ignoredResourceForeground": "#7d7999",
+		"gitDecoration.conflictingResourceForeground": "#eee12a",
 		//badge(small circle notifications)
 		"badge.foreground": "#f7e8d7",
 		"badge.background": "#4744e7",
-		//terminal colors
+		//list and trees
+		"list.activeSelectionBackground": "#4744e755",
+		"list.activeSelectionForeground": "#d8c2a0",
+		"list.dropBackground": "#3e3cc798",
+		"list.focusBackground": "#3e3cc798",
+		"list.focusForeground": "#d8c2a0",
+		"list.highlightForeground":"#3e3cc798",
+		"list.hoverBackground": "#3e3cc7dd",
+		"list.hoverForeground": "#d8c2a0",
+		"list.inactiveSelectionBackground":"#4744e755",
+		"list.inactiveSelectionForeground": "#9798a5",
+		"list.inactiveFocusBackground":"#4744e755",
+		"list.invalidItemForeground": "#c54c27",
+		"list.errorForeground": "#c54c27",
+		"list.warningForeground": "#3d71ff",
+		"tree.indentGuidesStroke": "#4744e7ee",
+		//terminal colors#3e3cc798
 		"terminal.background":"#0e0e13",
 		"terminal.foreground":"#9798a5",
 		"terminal.border": "#292858",
@@ -197,8 +221,28 @@
 		"titleBar.activeForeground":"#9d9ca5",
 		"titleBar.inactiveBackground": "#1c1c1d",
 		"titleBar.inactiveForeground":"#464458",
-		"titleBar.border":"#292858"
-
+		"titleBar.border":"#292858",
+		//settings Editor
+		"settings.headerForeground":"#9d9ca5",
+		"settings.modifiedItemIndicator":"#26dad1",
+		"settings.dropdownBackground": "#1c1c1f",
+		"settings.dropdownForeground":"#bebee0",
+		"settings.dropdownBorder":"#292858",
+		"settings.dropdownListBorder":"#1c1c1f",
+		"settings.checkboxBackground": "#3532db",
+		"settings.checkboxForeground": "#fffce8",
+		"settings.checkboxBorder":"#292858",
+		"settings.textInputBackground":"#1c1c1f",
+		"settings.textInputBorder":"#292858",
+		"settings.textInputForeground":"#d2d2e4",
+		"settings.numberInputBackground":"#1c1c1f",
+		"settings.numberInputBorder":"#292858",
+		"settings.numberInputForeground":"#d2d2e4",
+		//snippets
+		"editor.snippetTabstopHighlightBackground":"#26dad122",
+		"editor.snippetTabstopHighlightBorder":"#26dad155",
+		"editor.snippetFinalTabstopHighlightBackground":"#26dad123",
+		"editor.snippetFinalTabstopHighlightBorder": "#26dad155"
 	},
 	"tokenColors": [
 		{
