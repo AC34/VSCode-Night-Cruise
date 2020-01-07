@@ -56,4 +56,4 @@ All notable changes to the "Night Cruise" extension will be documented in this f
 - statusBar debugging colors are now same as badge.
 ## [0.0.13] - 
 ### Chcanged
-- added git colors,settings colors,
+- added git colors,settings colors,tree and list colors.
