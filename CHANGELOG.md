@@ -5,11 +5,12 @@ All notable changes to the "Night Cruise" extension will be documented in this f
 ## format
  format:http://keepachangelog.com/ 
  dates: Y-m-d (UTF 0900 Asia/Tokyo)
-## [Unreleased]
+
+## [unreleased]
 
 ## [0.0.1] - 2019-12-30
 - Initial release
-##[0.0.2] - 2019-12-30
+## [0.0.2] - 2019-12-30
 ### Changed
 - removing unnecessary lines from README.md
 ## [0.0.3] - 2019-12-30
@@ -47,10 +48,12 @@ All notable changes to the "Night Cruise" extension will be documented in this f
 ## [0.0.11] - 2020-1-4
 ### Changed
 - added ruler color,codeLens color,lightbulb colors,statusBar debug colors,badge colors.
-
 ## [0.0.12] - 2020-1-5
 ### Changed
 - added terminal related colors,terminal ansi 16 colors, Breadcrumbs colors, titleBar colors, tab backgrounds and borders,minimap colors, menu/menubar colors.
 - revised border colors
 - titleBar colors
 - statusBar debugging colors are now same as badge.
+## [0.0.13] - 
+### Chcanged
+- added git colors,settings colors,
