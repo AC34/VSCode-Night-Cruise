@@ -5,3 +5,5 @@ vsc-extension-quickstart.md
 devmemo.txt
 todo
 images/workdir/**
+docs/**
+publish/**
