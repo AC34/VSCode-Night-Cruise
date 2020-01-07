@@ -1,7 +1,6 @@
 todo:
 textBlockQuote
 inputValidation
-tree and list
 editorOvewview*
 editorHoverWidget
 debugExceptionWidget
@@ -12,9 +11,6 @@ extension*
 picker
 debugExceptionWidget
 welcome page
-git colors
-settings editor
-snippets
 symbolIcon
 debugIcon
 
@@ -23,6 +19,7 @@ editor tab(clearer colors to distinguish active/inactive tabs)
 
 dunno:
 url green
+listFilterWidget
 
 problem?
 character on cursor on word highlight gets overriden by new highlight. maybe transparent is doing something wrong?
