@@ -1,59 +1,186 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Night Cruise</title>
-  <link rel="stylesheet" href="css/index.css">
+  <title>Night Cruise Theme</title>
+  <link rel="stylesheet" href="css/layouts.css">
+  <link rel="stylesheet" href="css/decorations.css">
+  <link rel="stylesheet" href="css/editor-colors.css">
   <script src="js/index.js"></script>
 </head>
+
 <body>
+  <div id="wrapper">
     <header>
-      <h1 id="logo"><img src="img/icon.png" alt="">Night Cruise</h1>
-      <nav>
-        <ul>
-        <a href="https://github.com/AC34/VSCode-Night-Cruise">repository</a><a href="https://github.com/AC34/">AC34</a></nav>
-        </ul>
+      <div id="header-wrapper">
+        <h1><span><img id="logo" src="img/icon.png" alt=""></span><span id="theme-title">Night Cruise</span></h1>
+        <nav id="global-nav">
+          <ul>
+            <li>
+              <p><a class="github-link" href="https://github.com/AC34/VSCode-Night-Cruise">Repository</a></p>
+              <p><a class="github-link" href="https://github.com/AC34">AC34</a></p>
+            </li>
+            <li>
+              <p><a class="install" href="https://marketplace.visualstudio.com/items?itemName=AC34.vscode-night-cruise" target="blank">Install</a></p>
+            </li>
+          </ul>
+        </nav>
+      </div>
     </header>
-      <article id="main">
-        <article id="summary">
-          <h1>Summary</h1>
-          <p>An eye-friendly😎 dark theme prividing night-sky🌟 like vision for day and night coding🤘.</p>
+    <nav id="breadcrumb">
+        <ul>
+          <li>
+            <p class="editor-style"><a href="#">Top</a></p>
+          </li>
+          <li>
+            <p class="editor-style">
+              <a href="#summary">Summary</a>
+            </p>
+          </li>
+          <li>
+            <p class="editor-style">
+              <a href="#screenshot">Screenshot</a>
+            </p>
+          </li>
+          <li>
+            <p class="editor-style">
+              <a href="#updates">Updates</a>
+            </p>
+          </li>
+          <li>
+            <p class="editor-style">
+              <a href="#concept">Concept</a>
+            </p>
+          </li>
+        </ul>
+    </nav>
+    <article id="main">
+      <article id="summary">
+        <h2>Summary</h2>
+        <div class="article-group">
+          <p class="editor-style">An <span class="blue">eye-friendly</span>😎 dark theme for <span class="gold">Visual Studio Code</span>.
+          </p>
+          <p class="editor-style"><span class="blue">Carefully</span> <span class="orange">designed</span> by <span class="gold">programmer's point of view</span> for day and night <span class="gold">coding</span>🤘.</p>
+        </div>
+      </article>
+      <article id="screenshot">
+        <h2>Screenshot</h2>
+        <div class="article-group">
           <figure>
             <img src="./img/screenshot.png" alt="overview screenshot">
           </figure>
-        </article>
-        <article>
-          <h2>Updates</h2>
-          <section>
-            <h1 id="version"></h1>
-          </section>
-        </article>
-        <article>
-          <h1>Gallery</h1>
-          <section>
-            <ul>
-              <li></li>
-              <li></li>
-              <li></li>
-            </ul>
-          </section>
-        </article>
-
-          <h1>Concept</h1>
-        <article>
-          <h1>Demo on Browser</h1>
-          <p>not yet implemented.</p>
-        </article>
-
+        </div>
       </article>
-
-    <footer>
-      <p><small>
-        suport by subscribing is much appreciated.
-      </small></p>
-    </footer>
+      <article id="updates">
+        <h2>Updates</h2>
+        <div class="article-group">
+          <p class="editor-style"><span class="orange">See</span> the <a href="https://github.com/AC34/VSCode-Night-Cruise/blob/master/CHANGELOG.md"><span class="link">CHANGELOG</span<span>.md</a></p>
+        </div>
+      </article>
+      <article id="concept">
+        <h2>Concept</h2>
+        <h3>Overview</h3>
+        <div class="article-group">
+          <p class="editor-style">Human <span class="blue">kind</span> have <span class="blue">long</span> <span class="orange">been</span> <span class="orange">staring</span> at the night-sky🌙, <span class="blue">across</span> any civilizations <span class="gold">you</span> can <span class="orange">enumerate</span>.</p>
+          <p class="editor-style">The <span class="blue">core</span> <span class="gold">idea</span>💡 of this theme <span class="orange">is</span> to <span class="orange">implement</span> the <span class="blue">familiar</span> night-sky vision so that the theme <span class="orange">is</span> <span class="blue">naturally</span> <span class="gold">eye-friendly</span>😎, <span class="blue">without</span> any distractions and <span class="blue">cognitive</span> overloads🧠.
+          </p>
+          <p class="editor-style">Implementation <span class="orange">is</span> also <span class="blue">carefully</span> <span class="orange">done</span> with <span class="gold">programmer's point of view</span>🤖, so <span class="blue">that</span> colors <span class="orange">are</span> syntactically <span class="gold">meaningful</span>✨ and <span class="gold">easy</span> to <span class="orange">distinguish</span> between one another🚥.
+          </p>
+          <p class="editor-style"><span class="orange">Do</span> <span class="gold">you</span> <span class="blue">still</span> <span class="orange">want</span> to <span class="orange">keep</span> <span class="orange">staring</span> at <span class="gold">your</span> theme <span class="invalid">just aimed at</span>:
+          </p>
+          <ul>
+            <li>
+              <p class="editor-style"><span class="invalid">being dark</span>.</p>
+            </li>
+            <li>
+              <p class="editor-style"><span class="invalid">being colorful for the sake of being colorful</span>.</p>
+            </li>
+            <li>
+              <p class="editor-style"><span class="invalid">using designer's favourite colors, sacrificing rich coding experience.</span>
+              </p>
+            </li>
+          </ul>
+          <p class="editor-style">If not, this theme could <span class="orange">be</span> <span class="gold">your</span> solution.👍
+          </p>
+        </div>
+        <h3>UI</h3>
+        <div class="article-group">
+          <dl>
+            <dt>
+              <p class="editor-style"><span class="gold">Background</span></p>
+            <dd>
+              <p class="editor-style">Deep blue. <span class="gold">non-stimulative</span> color.
+              </p>
+            </dd>
+            <dt>
+              <p class="editor-style"><span class="gold"><span class="gold">Accent Colors</span></p>
+            </dt>
+            <dd>
+              <p class="editor-style"><span class="blue">Lighter</span> blue <span class="blue">than</span> that of background. Some colors <span class="orange">are</span> close to purple.
+              </p>
+            </dd>
+          </dl>
+        </div>
+        <h3>Editor</h3>
+        <div class="article-group">
+          <dl>
+            <dt>
+              <p class="editor-style"><span class="gold">Backgroud</span>
+              </p>
+            </dt>
+            <dd>
+              <p class="editor-style"><span class="blue">Deeper</span> <span class="blue">than</span> UI blue.(easy to <span class="orange">distinguish</span> from other UI components)
+              </p>
+            </dd>
+            <dt>
+              <p class="editor-style"><span class="gold">Comment</span>
+              </p>
+            </dt>
+            <dd>
+              <p class="editor-style">Light gray. Not too bright, yet still easy to <span class="orange">read</span>.
+              </p>
+            </dd>
+            <dt>
+              <p class="editor-style"><span class="gold">language based keywords</span>
+              </p>
+            </dt>
+            <dd>
+              <p class="editor-style">Light blue. language based keywords <span class="orange">are</span> <span class="blue">always</span> predictable.
+              </p>
+            </dd>
+            <dt>
+              <p class="editor-style"><span class="gold">Orange</span>
+              </p>
+            </dt>
+            <dd>
+              <p class="editor-style">This alternative color intends to <span class="orange">distinguish</span> from the other light blue, while still managing to <span class="orange">stay</span> lower <span class="blue">than</span> <span class="gold">the main gold</span>.
+              </p>
+            </dd>
+            <dt>
+              <p class="editor-style"><span class="gold">User defined keywords</span>
+              </p>
+            </dt>
+            <dd>
+              <p class="editor-style">Gold. This <span class="orange">is</span> the <span class="blue">core</span> part. <span class="gold">A-star-in-the-night-sky-like gold</span>. <span class="gold">Your eyes</span> <span class="orange">are</span> not <span class="orange">catching</span> those characters, but the colors <span class="orange">are</span> <span class="orange">catching</span> <span class="gold">your eyes</span>. This coloring <span class="blue">by its nature</span> <span class="orange">makes</span> it <span class="blue">easier</span> for <span class="gold">you</span> to <span class="orange">face</span> the display through the night.
+              </p>
+            </dd>
+          </dl>
+        </div>
+      </article>
+      <footer>
+        <p class="editor-style"><small>Giving praise is much appreciated.
+          </small></p>
+        <ul>
+          <li>
+            <p class="editor-style"><a href="https://github.com/AC34?tab=stars">⭐</a></p>
+          </li>
+        </ul>
+      </footer>
+    </article>
   </div>
 </body>
+
 </html>
