@@ -1,0 +1,323 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+body {
+  min-width: 320px;
+}
+img {
+  width: 100%;
+  height: auto;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+#wrapper {
+  width: 800px;
+  display: block;
+  margin: 0 auto;
+  margin-top: 80vh;
+  margin-bottom: 100px;
+}
+#wrapper header {
+  width: 100%;
+  height: 80vh;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  line-height: 80vh;
+  text-align: center;
+}
+#wrapper header #header-wrapper {
+  display: inline-block;
+  position: relative;
+  overflow: auto;
+  width: 800px;
+  margin: 0 auto;
+  vertical-align: middle;
+}
+#wrapper header h1 {
+  display: block;
+  float: left;
+  width: 50%;
+  height: 100px;
+  line-height: 100px;
+  text-align: right;
+}
+#wrapper header h1 span {
+  display: inline-block;
+  vertical-align: middle;
+  line-height: 0;
+}
+#wrapper header h1 span #logo {
+  width: 90px;
+  height: 90px;
+  margin: 0px 5px;
+}
+#wrapper header nav#global-nav {
+  display: block;
+  float: right;
+  width: 50%;
+  height: 100px;
+  text-align: right;
+}
+#wrapper header nav#global-nav ul {
+  display: block;
+  height: 100px;
+}
+#wrapper header nav#global-nav ul li {
+  font-size: 18px;
+  line-height: 30px;
+  height: 30px;
+}
+#wrapper header nav#global-nav ul li:first-child {
+  position: relative;
+  top: 5px;
+}
+#wrapper header nav#global-nav ul li:last-child {
+  display: block;
+  position: relative;
+  height: 35px;
+  top: 35px;
+  left: 0px;
+}
+#wrapper header nav#global-nav ul li p {
+  display: inline-block;
+  margin-right: 5px;
+}
+#wrapper header nav#global-nav ul li p a {
+  vertical-align: bottom;
+}
+#wrapper header nav#global-nav ul li p a.install {
+  display: inline-block;
+  padding: 0 1em;
+  vertical-align: middle;
+}
+#wrapper nav#breadcrumb {
+  background:inherit;
+  float: none;
+  width: inherit;
+  height: 30px;
+  font-size: 13px;
+  position: fixed;
+  bottom: 0px;
+  z-index:100;
+  overflow:hidden;
+}
+#wrapper nav#breadcrumb ul {
+  display: block;
+  padding:0px 5px 50px 5px;
+  overflow-x:scroll;
+  overflow-y:hidden;
+  white-space: nowrap;
+  height:30px;
+  line-height: 30px;
+}
+#wrapper nav#breadcrumb ul li {
+  display: inline-block;
+  height: inherit;
+  line-height: inherit;
+  padding-left:2.5px;
+}
+#wrapper nav#breadcrumb ul li p {
+  vertical-align: middle;
+  display: inline;
+}
+#wrapper #main{
+  margin-top:10px;
+}
+#wrapper article h2 {
+  display: table; /*edge*/
+  margin-left: 5px;
+  min-width: fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  padding: 5px 1em;
+  font-size: 15px;
+}
+#wrapper article h3 {
+  margin: 0px 5px;
+  padding-right: -5px;
+  padding: 2px 5px 2px 5px;
+  font-size: 13px;
+  font-weight: normal;
+}
+#wrapper article .article-group {
+  margin: 0px 5px 10px 5px;
+}
+#wrapper article .article-group > p,
+#wrapper article .article-group ul li p,
+#wrapper article .article-group dl dt p,
+#wrapper article .article-group dl dd p {
+  width: 600px;
+  padding: 0px 5px;
+  font-size: 14px;
+}
+#wrapper article .article-group p:before {
+  display: inline-block;
+  text-align: right;
+  width: 42px;
+  margin-right: -42px;
+  position: relative;
+  top: 0px;
+  left: -47px;
+}
+#wrapper article .article-group ul li p,
+#wrapper article .article-group dl dd p {
+  width: 586px;
+  padding-left: 19px;
+}
+#wrapper article .article-group ul li p:before,
+#wrapper article .article-group dl dd p:before {
+  position: relative;
+  top: 0px;
+  left: -61px;
+}
+#wrapper article .article-group > p:first-child,
+#wrapper article .article-group ul:first-child li:first-child p:first-child,
+#wrapper article .article-group dl:first-child dt:first-child p:first-child,
+#wrapper article .article-group dl:first-child dd:first-child p:first-child {
+  padding: 14px 5px 0px 5px;
+}
+#wrapper article .article-group > p:first-child:last-child {
+  padding: 14px 5px;
+}
+#wrapper article .article-group > p:last-child {
+  padding: 0px 5px 14px 5px;
+}
+#wrapper article .article-group ul:last-child li:last-child p:last-child,
+#wrapper article .article-group dl:last-child dt:last-child p:last-child,
+#wrapper article .article-group dl:last-child dd:last-child p:last-child {
+  padding: 0px 5px 14px 19px;
+}
+
+#wrapper footer p:first-child {
+  padding-top: 10px;
+}
+#wrapper footer p {
+  text-align: center;
+  text-indent: 1em;
+  margin: 5px;
+}
+#wrapper footer p:before {
+  content: none;
+}
+@media screen and (max-width: 850px) {
+  body {
+    width: 100%;
+    margin: 0 auto;
+  }
+  div#wrapper {
+    display: block;
+    width: 100%;
+    margin-top: 0px;
+  }
+  #wrapper header {
+    display: block;
+    height: auto;
+    position: initial;
+  }
+  #wrapper header #header-wrapper {
+    width: 100%;
+  }
+  #wrapper header h1 {
+    display: block;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    float: none;
+  }
+  #wrapper header h1 span {
+    width: 100%;
+  }
+  #wrapper header nav#global-nav {
+    display: block;
+    line-height: normal;
+    width: 100%;
+    height: -moz-fit-content;
+    height: -webkit-fit-content;
+    height: -ms-fit-content !important;
+    height: -o-fit-content;
+    height: fit-content;
+    text-align: center;
+    float: none;
+  }
+  #wrapper header nav#global-nav ul {
+    display: block;
+  }
+  #wrapper header nav#global-nav ul li {
+    display: block;
+    height: 30px;
+  }
+  #wrapper header nav#global-nav ul li:first-child {
+    position: static;
+  }
+  #wrapper header nav#global-nav ul li:last-child {
+    position: static;
+  }
+  #wrapper header nav#global-nav ul li p {
+    margin-right: 5px;
+  }
+  #wrapper header nav#global-nav ul li p a.install {
+    margin-top: 10px;
+    display: inline-block;
+    padding: 0 1em;
+  }
+  #wrapper nav#breadcrumb {
+    width:100vw;
+  }
+  #wrapper article h3 {
+    margin-left: 0px;
+  }
+  #wrapper article .article-group {
+    margin: 0px 0px 10px 0px;
+  }
+  #wrapper article .article-group > p,
+  #wrapper article .article-group ul li p,
+  #wrapper article .article-group dl dt p,
+  #wrapper article .article-group dl dd p {
+    width: 520px;
+  }
+  #wrapper article .article-group ul li p,
+  #wrapper article .article-group dl dd p {
+    width: 506px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  #wrapper article .article-group > p,
+  #wrapper article .article-group ul li p,
+  #wrapper article .article-group dl dt p,
+  #wrapper article .article-group dl dd p {
+    width: 400px;
+  }
+  #wrapper article .article-group ul li p,
+  #wrapper article .article-group dl dd p {
+    width: 386px;
+  }
+}
+@media screen and (max-width: 500px) {
+  #wrapper article .article-group > p,
+  #wrapper article .article-group ul li p,
+  #wrapper article .article-group dl dt p,
+  #wrapper article .article-group dl dd p {
+    width: 300px;
+  }
+  #wrapper article .article-group ul li p,
+  #wrapper article .article-group dl dd p {
+    width: 286px;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  #wrapper article .article-group > p,
+  #wrapper article .article-group ul li p,
+  #wrapper article .article-group dl dt p,
+  #wrapper article .article-group dl dd p {
+    width: 200px;
+  }
+  #wrapper article .article-group ul li p,
+  #wrapper article .article-group dl dd p {
+    width: 186px;
+  }
+}

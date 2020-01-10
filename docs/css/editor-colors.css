@@ -1,0 +1,19 @@
+#wrapper .article-group span.blue {
+  color: #7e90df;
+}
+#wrapper .article-group span.orange {
+  color: #dd8359;
+}
+#wrapper .article-group span.gold {
+  color: #c79f72;
+}
+#wrapper .article-group span.invalid {
+  color:#bcbbc5;
+  text-decoration-line: underline;
+  text-decoration-style: wavy;
+  text-decoration-color: #cf4015;
+}
+#wrapper .article-group span.link{
+  text-decoration: underline;
+  color:#c79f72;
+}
