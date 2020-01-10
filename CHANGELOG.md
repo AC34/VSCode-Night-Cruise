@@ -54,6 +54,10 @@ All notable changes to the "Night Cruise" extension will be documented in this f
 - revised border colors
 - titleBar colors
 - statusBar debugging colors are now same as badge.
-## [0.0.13] - 
-### Chcanged
+## [0.0.13] - 2020/1/7
+### Changed
 - added git colors,settings colors,tree and list colors.
+
+## [0.0.14] - 2020/1/10
+### Changed
+- added textBlockQuote colors,inputOptions and inputValidations colors.

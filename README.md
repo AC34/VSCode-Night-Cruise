@@ -8,7 +8,7 @@
 ## Summary
 An eye-friendly dark theme for Visual Studio Code.
 see [more information on github.io](https://ac34.github.io/VSCode-Night-Cruise/).
-
+![Screenshot](images/screenshot.png)
 ## ⚠️Warning
 This theme lets you be focused deeply.<br>
 manage focus intervals and take some rests.
