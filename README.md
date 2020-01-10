@@ -6,8 +6,8 @@
    [![stars](https://img.shields.io/github/stars/AC34/VSCode-Night-Cruise?style=flat-square&logo=github&color=4744e7)](https://github.com/AC34?tab=stars)
 ---
 ## Summary
-An eye-friendly dark theme for Visual Studio Code.
-see [more information on github.io](https://ac34.github.io/VSCode-Night-Cruise/).
+An eye-friendly😎 dark theme for Visual Studio Code.
+see [more information on github.io](https://ac34.github.io/VSCode-Night-Cruise/), or get it at the [Marketplace](https://marketplace.visualstudio.com/items?itemName=AC34.vscode-night-cruise).
 ![Screenshot](images/screenshot.png)
 ## ⚠️Warning
 This theme lets you be focused deeply.<br>
