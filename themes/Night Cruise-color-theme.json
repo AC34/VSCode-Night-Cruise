@@ -26,11 +26,20 @@
 		"dropdown.border": "#292858",
 		"dropdown.listBackground": "#1c1c1f",
 		//input
-		"input.background":"#0e0e13",
+		"input.background":"#1c1c1f",
 		"input.border":"#06060a",
 		"inputOption.activeBorder": "#c0973f",
+		"inputOption.activeBackground": "#0e0e13",
 		"input.foreground":"#d2d2e4",
-		"input.placeholderForeground":"#9d9ca5",
+		"input.placeholderForeground":"#a59c9c",
+		"inputValidation.errorForeground": "#d43200",
+		"inputValidation.errorBackground": "#1c1c1f",
+		"inputValidation.errorBorder": "#d43200","inputValidation.infoBackground":"#1c1c1f",
+		"inputValidation.infoForeground": "#1c1c1f",
+		"inputValidation.infoBorder":"#4744e7",
+		"inputValidation.warningForeground":"#ffac30",
+		"inputValidation.warningBackground":"#1c1c1f",
+		"inputValidation.warningBorder": "#ffac30",
 		//scrollbar
 		"scrollbar.shadow":"#131e4d",
 		"scrollbarSlider.activeBackground":"#4744e798",
@@ -242,7 +251,16 @@
 		"editor.snippetTabstopHighlightBackground":"#26dad122",
 		"editor.snippetTabstopHighlightBorder":"#26dad155",
 		"editor.snippetFinalTabstopHighlightBackground":"#26dad123",
-		"editor.snippetFinalTabstopHighlightBorder": "#26dad155"
+		"editor.snippetFinalTabstopHighlightBorder": "#26dad155",
+		//textBlockQuotes
+		//some colors are not found to be used
+		//"textBlockQuote.background": "#060547",
+		"textBlockQuote.border":"#4744e7",
+		//"textCodeBlock.background":"#000000",
+		"textLink.foreground": "#726fff",
+		"textLink.activeForeground":"#bdbcff",
+		"textPreformat.foreground": "#ffac30",
+		"textSeparator.foreground": "#ff0000",
 	},
 	"tokenColors": [
 		{
