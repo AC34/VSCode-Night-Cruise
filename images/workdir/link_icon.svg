@@ -51,9 +51,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="415.39571"
-     inkscape:cy="479.1943"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="362.17986"
+     inkscape:cy="618.38442"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -84,6 +84,11 @@
        position="211.66666,52.916663"
        orientation="1,0"
        id="guide880"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="52.916673,105.83332"
+       orientation="0,1"
+       id="guide858"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
@@ -242,8 +247,8 @@
     <path
        inkscape:connector-curvature="0"
        id="path815-2-5"
-       d="m 244.52475,52.527874 -46.284,9.409457 -46.28399,9.409459 36.87453,36.87452 36.87455,36.87456 9.40945,-46.284006 z M 42.385963,95.91665 V 254.66667 H 201.08333 V 121.43404 l -68.86668,68.87986 -25.51739,-25.51741 68.86669,-68.87984 z"
-       style="opacity:1;vector-effect:none;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:6.29167175px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       d="m 181.02475,63.111208 -31.74432,6.453565 -31.74431,6.453566 25.29075,25.290731 25.29076,25.29077 6.45356,-31.744322 z M 42.385963,92.869808 V 201.75001 H 151.23005 V 110.37115 L 103.99718,157.61306 86.495843,140.1117 133.72871,92.869808 Z"
+       style="opacity:1;vector-effect:none;fill:#fffce8;fill-opacity:1;stroke:none;stroke-width:4.31520224px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <rect
        style="opacity:1;vector-effect:none;fill:#38383b;fill-opacity:1;stroke:none;stroke-width:0.23870541px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect1075"
@@ -279,5 +284,12 @@
        height="52.916668"
        x="-73.327377"
        y="-16.720249" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#38383b;fill-opacity:1;stroke:none;stroke-width:0.22190587px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1075-3-8"
+       width="52.916668"
+       height="52.916668"
+       x="-133.10022"
+       y="291.12546" />
   </g>
 </svg>
