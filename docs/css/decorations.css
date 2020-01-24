@@ -4,9 +4,20 @@
   color: red;
   font-family: "Fira Code", monospace;
 }
-*::selection{
-  color:#fffce8;
-  background:#4744e7;
+*::selection {
+  color: #fffce8;
+  background: #4744e7;
+}
+a:after {
+  display: inline-block;
+  width: 0.9em;
+  height: 0.9em;
+  color: white;
+  content: "";
+  background: url("../img/icon/link_icon.png") no-repeat;
+  background-size: 1em;
+  background-position: 0 0;
+  vertical-align: baseline;
 }
 body {
   background-color: #161616;
@@ -34,11 +45,11 @@ body::-webkit-scrollbar-thumb:hover {
   color: #bcbbc5;
   background: #1a1936;
   border-bottom: 1px solid #292858;
-  box-shadow: 0px -2px 10px #1a1936,0px 0px 2vw 2vw #171633bb inset;
+  box-shadow: 0px -2px 10px #1a1936, 0px 0px 2vw 2vw #171633bb inset;
 }
 #wrapper header h1 span {
-  font-weight:300;
-  font-size:28px;
+  font-weight: 300;
+  font-size: 28px;
   color: #eaebf0;
   -webkit-user-select: none;
   -moz-user-select: none;
@@ -74,13 +85,39 @@ body::-webkit-scrollbar-thumb:hover {
 #wrapper header nav#global-nav ul li p a.install {
   color: #fffce8;
   background-color: #3532db;
-  border: 1px solid #26dad134;
-  letter-spacing:1px;
-  box-shadow:2px 0px 42px -20px #26dad1c0 inset;
-  font-weight:500;
+  letter-spacing: 1px;
+  font-weight: 700;
+  border-top:0.5px solid #3b3b85;
+  border-bottom:1px solid #0d0d2f;
+  border-right:0.5px solid #0d0d2f;
+  border-left:0.5px solid #5252a8;
+  box-shadow:
+    0px 0px 4px #0a0a2ce1,
+    inset 0px -1px 1px 1px #5252a815,
+    inset 0px -2px 5px 3px #5252a82d
+    ;
 }
 #wrapper header nav#global-nav ul li p a.install:hover {
-  background-color: #3e3cc7aa;
+  color: #fff8ca;
+  border-top:0.5px solid #3b3b85;
+  border-bottom:1px solid #0d0d2f;
+  border-right:0.5px solid #0d0d2f;
+  border-left:0.5px solid #5252a8;
+  text-decoration: none;
+  box-shadow:
+    0px 0px 4px #3532db86,
+    0px 0px 10px #3532db63
+  ;
+}
+#wrapper header nav#global-nav ul li p a.install:active {
+  background-color: #3532db;
+  border-top:0.5px solid #3532db;
+  border-bottom:1px solid #3532db;
+  border-right:0.5px solid #3532db;
+  border-left:0.5px solid #3532db;
+}
+#wrapper header nav#global-nav ul li p a.install:active {
+  background-color: #3532db;
 }
 #wrapper nav#breadcrumb {
   background: #0e0e13;
@@ -97,15 +134,19 @@ body::-webkit-scrollbar-thumb:hover {
   text-decoration: none;
   color: #bcbbc5;
 }
+#wrapper nav#breadcrumb ul li p a:after {
+  content: "";
+  background: none;
+}
 #wrapper nav#breadcrumb ul li p a:hover {
   color: #f7e8d7;
 }
-#wrapper article .article-group{
+#wrapper article .article-group {
   counter-reset: line-number;
   background: #0e0e13;
 }
 #wrapper .article-group {
-  background:#0e0e13;
+  background: #0e0e13;
   border: 1px solid #292858;
   box-shadow: 0px 0px 4px darker(#1a1936);
 }
@@ -116,29 +157,29 @@ body::-webkit-scrollbar-thumb:hover {
   background: #292858;
   box-shadow: 0px -2px 4px #1a1936;
   letter-spacing: 1.3px;
-  font-weight:300;
+  font-weight: 300;
 }
 #wrapper article h3 {
   color: #bcbbc5;
   letter-spacing: 1px;
   background: #1a1936ff;
   border: 1px solid #292858;
-  border-bottom:none;
+  border-bottom: none;
 }
 #wrapper article .article-group p,
 #wrapper article .article-group ul li p,
 #wrapper article .article-group dl dt p,
-#wrapper article .article-group dl dd p{
+#wrapper article .article-group dl dd p {
   color: #bcbbc5;
   background: #0e0e13;
   border-left: 42px solid #18181b;
-  border-right:1px solid #4744e791;
+  border-right: 1px solid #4744e791;
 }
-#wrapper .article-group p.editor-style{
+#wrapper .article-group p.editor-style {
   counter-increment: line-number;
 }
-#wrapper .article-group p.editor-style:before{
-  font-size:14px;
+#wrapper .article-group p.editor-style:before {
+  font-size: 14px;
   color: #7d7999;
   content: counter(line-number);
   text-align: center;
@@ -178,7 +219,7 @@ body::-webkit-scrollbar-thumb:hover {
   #wrapper {
     border: none;
   }
-  #wrapper header h1 span{
-    font-size:22px;
+  #wrapper header h1 span {
+    font-size: 22px;
   }
 }
