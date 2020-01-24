@@ -98,7 +98,7 @@ body::-webkit-scrollbar-thumb:hover {
     ;
 }
 #wrapper header nav#global-nav ul li p a.install:hover {
-  color: #fff8ca;
+  color: #fff199;
   border-top:0.5px solid #3b3b85;
   border-bottom:1px solid #0d0d2f;
   border-right:0.5px solid #0d0d2f;
@@ -110,6 +110,7 @@ body::-webkit-scrollbar-thumb:hover {
   ;
 }
 #wrapper header nav#global-nav ul li p a.install:active {
+  color: #fbe975;
   background-color: #3532db;
   border-top:0.5px solid #3532db32;
   border-bottom:1px solid #3532db32;
