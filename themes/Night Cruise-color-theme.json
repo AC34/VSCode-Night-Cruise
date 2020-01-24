@@ -275,6 +275,7 @@
 		"editorOverviewRuler.warningForeground": "#eee12a",
 		"editorOverviewRuler.infoForeground": "#f3f3f7",
 		"editorOverviewRuler.bracketMatchForeground": "#d8c2a0"
+		
 	},
 	"tokenColors": [
 		{
