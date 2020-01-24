@@ -134,7 +134,7 @@
 		"notificationLink.foreground":"#d8c2a0",
 		"notificationsErrorIcon.foreground":"#cf4015",
 		"notificationsWarningIcon.foreground":"#ffac30",
-		"notificationsInfoIcon.foreground":"#4744e7ee",
+		"notificationsInfoIcon.foreground":"#f3f3f7ee",
 		//errors
 		"errorForeground":"#cf4015",
 		//line number
@@ -256,11 +256,25 @@
 		//some colors are not found to be used
 		//"textBlockQuote.background": "#060547",
 		"textBlockQuote.border":"#4744e7",
-		//"textCodeBlock.background":"#000000",
+		//texts
 		"textLink.foreground": "#726fff",
 		"textLink.activeForeground":"#bdbcff",
 		"textPreformat.foreground": "#ffac30",
 		"textSeparator.foreground": "#ff0000",
+		//editoroverview
+		"editorOverviewRuler.border": "#4744e798",
+		"editorOverviewRuler.findMatchForeground": "#378dff",
+		"editorOverviewRuler.rangeHighlightForeground": "#378dff",
+		"editorOverviewRuler.selectionHighlightForeground": "#378dff",
+		"editorOverviewRuler.wordHighlightForeground": "#378dff",
+		"editorOverviewRuler.wordHighlightStrongForeground": "#378dff",
+		"editorOverviewRuler.modifiedForeground": "#26dad1",
+		"editorOverviewRuler.addedForeground": "#26dad1",
+		"editorOverviewRuler.deletedForeground": "#c54c27",
+		"editorOverviewRuler.errorForeground": "#c54c27",
+		"editorOverviewRuler.warningForeground": "#eee12a",
+		"editorOverviewRuler.infoForeground": "#f3f3f7",
+		"editorOverviewRuler.bracketMatchForeground": "#d8c2a0"
 	},
 	"tokenColors": [
 		{
