@@ -61,3 +61,7 @@ All notable changes to the "Night Cruise" extension will be documented in this f
 ## [0.0.14] - 2020/1/10
 ### Changed
 - added textBlockQuote colors,inputOptions and inputValidations colors.
+
+## [0.0.15] - 2020/1/24
+### Changed
+- added editorOverview* colors.
