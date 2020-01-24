@@ -86,12 +86,12 @@ body::-webkit-scrollbar-thumb:hover {
   color: #fffce8;
   background-color: #3532db;
   letter-spacing: 1px;
-  font-weight: 700;
+  font-weight: 500;
   border-top:0.5px solid #3b3b85;
   border-bottom:1px solid #0d0d2f;
   border-right:0.5px solid #0d0d2f;
   border-left:0.5px solid #5252a8;
-  box-shadow:
+  text-shadow:-0.5px -0.5px 0.5px #5252a8,-1px -1px 1px #0d0d2f;
     0px 0px 4px #0a0a2ce1,
     inset 0px -1px 1px 1px #5252a815,
     inset 0px -2px 5px 3px #5252a82d
@@ -111,10 +111,14 @@ body::-webkit-scrollbar-thumb:hover {
 }
 #wrapper header nav#global-nav ul li p a.install:active {
   background-color: #3532db;
-  border-top:0.5px solid #3532db;
-  border-bottom:1px solid #3532db;
-  border-right:0.5px solid #3532db;
-  border-left:0.5px solid #3532db;
+  border-top:0.5px solid #3532db32;
+  border-bottom:1px solid #3532db32;
+  border-right:0.5px solid #3532db32;
+  border-left:0.5px solid #3532db32;
+  box-shadow:
+    0px 0px 8px #3532db86,
+    0px 0px 20px #3532db63
+  ;
 }
 #wrapper header nav#global-nav ul li p a.install:active {
   background-color: #3532db;
