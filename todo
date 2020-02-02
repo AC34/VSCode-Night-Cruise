@@ -1,5 +1,4 @@
 todo:
-Errors and warnings:
 editorHoverWidget
 debugExceptionWidget
 editorMarkerNavigation
@@ -18,6 +17,8 @@ editor tab(clearer colors to distinguish active/inactive tabs)
 dunno:
 url green
 listFilterWidget
+unused source code
+editorGutter.commentRangeForeground
 
 problem?
 character on cursor on word highlight gets overriden by new highlight. maybe transparent is doing something wrong?

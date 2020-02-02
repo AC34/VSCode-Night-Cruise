@@ -65,3 +65,7 @@ All notable changes to the "Night Cruise" extension will be documented in this f
 ## [0.0.15] - 2020/1/24
 ### Changed
 - added editorOverview* colors.
+
+## [0.0.16] - 2020/2/02
+### Changed
+- added erros and warnings , unusedsource, editor gutter color. 

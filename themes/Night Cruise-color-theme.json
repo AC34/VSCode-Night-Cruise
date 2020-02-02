@@ -274,8 +274,28 @@
 		"editorOverviewRuler.errorForeground": "#c54c27",
 		"editorOverviewRuler.warningForeground": "#eee12a",
 		"editorOverviewRuler.infoForeground": "#f3f3f7",
-		"editorOverviewRuler.bracketMatchForeground": "#d8c2a0"
-		
+		"editorOverviewRuler.bracketMatchForeground": "#d8c2a0",
+		//errors and warnings
+		"editorError.foreground":"#c54c27",
+		"editorError.border":"#c54c27",
+		"editorWarning.foreground":"#eee12a",
+		"editorWarning.border":"#eee12a",
+		"editorInfo.foreground":"#f3f3f7",
+		"editorInfo.border":"#d8c2a0",
+		"editorHint.foreground":"#f3f3f7",
+		"editorHint.border":"#d8c2a0",
+		"problemsErrorIcon.foreground":"#c54c27",
+		"problemsWarningIcon.foreground":"#eee12a",
+		"problemsInfoIcon.foreground":"#f3f3f7",
+		//unused source codes
+		//"editorUnnecessaryCode.border":"#ff009d",
+		"editorUnnecessaryCode.opacity": "#000000c7",
+		//editor gutter	
+		"editorGutter.background":"#121212",
+		"editorGutter.modifiedBackground":"#26dad1",
+		"editorGutter.addedBackground":"#378dff",
+		"editorGutter.deletedBackground":"#c54c27",	
+		//"editorGutter.commentRangeForeground":"#ffffff"
 	},
 	"tokenColors": [
 		{
