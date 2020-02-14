@@ -1,0 +1,25 @@
+@media screen and (max-width: 500px) {
+  #wrapper article .article-group > p,
+  #wrapper article .article-group ul li p,
+  #wrapper article .article-group dl dt p,
+  #wrapper article .article-group dl dd p {
+    width: 300px;
+  }
+  #wrapper article .article-group ul li p,
+  #wrapper article .article-group dl dd p {
+    width: 286px;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  #wrapper article .article-group > p,
+  #wrapper article .article-group ul li p,
+  #wrapper article .article-group dl dt p,
+  #wrapper article .article-group dl dd p {
+    width: 200px;
+  }
+  #wrapper article .article-group ul li p,
+  #wrapper article .article-group dl dd p {
+    width: 186px;
+  }
+}

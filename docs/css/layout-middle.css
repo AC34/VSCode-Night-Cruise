@@ -1,0 +1,93 @@
+@media screen and (max-width: 850px) {
+  body {
+    width: 100%;
+    margin: 0 auto;
+  }
+  div#wrapper {
+    display: block;
+    width: 100%;
+    margin-top: 0px;
+  }
+  #wrapper header {
+    display: block;
+    height: auto;
+    position: initial;
+  }
+  #wrapper header #header-wrapper {
+    width: 100%;
+  }
+  #wrapper header h1 {
+    display: block;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    float: none;
+  }
+  #wrapper header h1 span {
+    width: 100%;
+  }
+  #wrapper header nav#global-nav {
+    display: block;
+    line-height: normal;
+    width: 100%;
+    height: -moz-fit-content;
+    height: -webkit-fit-content;
+    height: -ms-fit-content !important;
+    height: -o-fit-content;
+    height: fit-content;
+    text-align: center;
+    float: none;
+  }
+  #wrapper header nav#global-nav ul {
+    display: block;
+  }
+  #wrapper header nav#global-nav ul li {
+    display: block;
+    height: 30px;
+  }
+  #wrapper header nav#global-nav ul li:first-child {
+    position: static;
+  }
+  #wrapper header nav#global-nav ul li:last-child {
+    position: static;
+  }
+  #wrapper header nav#global-nav ul li p {
+    margin-right: 5px;
+  }
+  #wrapper header nav#global-nav ul li p a.install {
+    margin-top: 10px;
+    display: inline-block;
+    padding: 0 1em;
+  }
+  #wrapper nav#breadcrumb {
+    width:100vw;
+  }
+  #wrapper article h3 {
+    margin-left: 0px;
+  }
+  #wrapper article .article-group {
+    margin: 0px 0px 10px 0px;
+  }
+  #wrapper article .article-group > p,
+  #wrapper article .article-group ul li p,
+  #wrapper article .article-group dl dt p,
+  #wrapper article .article-group dl dd p {
+    width: 520px;
+  }
+  #wrapper article .article-group ul li p,
+  #wrapper article .article-group dl dd p {
+    width: 506px;
+  }
+}
+@media screen and (max-width: 600px) {
+  #wrapper article .article-group > p,
+  #wrapper article .article-group ul li p,
+  #wrapper article .article-group dl dt p,
+  #wrapper article .article-group dl dd p {
+    width: 400px;
+  }
+  #wrapper article .article-group ul li p,
+  #wrapper article .article-group dl dd p {
+    width: 386px;
+  }
+}
