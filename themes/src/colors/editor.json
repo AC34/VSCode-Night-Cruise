@@ -25,5 +25,15 @@
   "//PeekView//":"",
   "peekView.border":"#292858",
   "peekViewEditor.background":"#0e0e13",
-  "peekViewEditorGutter.background":"#0e0e13"
+  "peekViewEditorGutter.background":"#121212",
+  "peekViewEditor.matchHighlightBackground":"#050533",
+  "peekViewEditor.matchHighlightBorder":"#1d1852",
+  "peekViewResult.background":"#121212",
+  "//peekViewResult.fileForeground":"#050533",
+  "//peekViewResult.lineForegroun":"#ff0000",
+  "peekViewResult.matchHighlightBackground":"#050533",
+  "peekViewResult.selectionBackground":"#050533",
+  "peekViewTitle.background":"#0e0e13",
+  "peekViewTitleDescription.foreground":"#9798a5",
+  "peekViewTitleLabel.foreground":"#f7e8d7"
 }

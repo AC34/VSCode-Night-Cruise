@@ -1,8 +1,6 @@
 todo:
-editorHoverWidget
 debugExceptionWidget
 editorMarkerNavigation
-PeekView
 MergeConflicts
 extension*
 picker
@@ -16,6 +14,9 @@ url green
 listFilterWidget
 unused source code
 editorGutter.commentRangeForeground
+editorHoverWidget
+peekViewResult.fileForeground
+peekViewResult.lineForeground
 
 problem?
 character on cursor on word highlight gets overriden by new highlight. maybe transparent is doing something wrong?
