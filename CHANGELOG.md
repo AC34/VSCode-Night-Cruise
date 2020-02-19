@@ -72,3 +72,6 @@ All notable changes to the "Night Cruise" extension will be documented in this f
 ## [0.0.17] - 2020/2/19
 ### Changed
 - added PeekView colors.
+## [0.0.18] - 2020/2/19
+### Changed
+- fixed build path(since 0.0.17 missed a file).
