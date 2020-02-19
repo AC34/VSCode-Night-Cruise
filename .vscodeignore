@@ -7,3 +7,6 @@ todo
 images/workdir/**
 docs/**
 publish/**
+build/**
+docs/**
+node_modules/**
