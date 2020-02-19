@@ -3,7 +3,7 @@ console.log("building 2_colors.json:");
 
 //create colors.json
 var colors = {};
-colors = Object.assign(colors,d.JSON.read("themes/src/colors/bar_maps.json"));
+colors = Object.assign(colors,d.JSON.read("themes/src/colors/bars_maps.json"));
 colors = Object.assign(colors,d.JSON.read("themes/src/colors/editor.json"));
 colors = Object.assign(colors,d.JSON.read("themes/src/colors/interactive.json"));
 colors = Object.assign(colors,d.JSON.read("themes/src/colors/other.json"));
