@@ -35,9 +35,20 @@
   ],
   "icon": "images/icon.png",
   "devDependencies": {
-    "dxl-builder": "^1.0.3"
+    "dxl-builder": "^1.0.3",
+    "npm-watch": "^0.6.0"
   },
-  "scripts":{
-    "build":" node ./build/build.js"
+  "scripts": {
+    "build": " node ./build/build.js",
+    "watch":"npm-watch build"
+  },
+  "watch":{
+    "patterns":[
+      "themes/src/",
+      "themes/src/colors/"
+    ],
+    "ignores":[
+
+    ]
   }
 }
