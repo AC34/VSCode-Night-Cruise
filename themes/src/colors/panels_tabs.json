@@ -1,5 +1,4 @@
 {
-  "//tab//":"",
   "tab.activeBackground": "#292858",
   "tab.activeForeground": "#f7e8d7",
   "tab.inactiveForeground": "#9d9ca5",
@@ -12,16 +11,16 @@
   "tab.hoverBorder": "#ffac30",
   "tab.unfocusedHoverBorder": "#ffac30",
   "tab.unfocusedInactiveForeground": "#9d9ca5",
-  "//panel//":"",
+
   "panel.background": "#18181b",
   "panel.border": "#292858",
   "panelTitle.activeForeground": "#d8c2a0",
   "panelTitle.inactiveForeground": "#a5a5a5",
-  "//menubar//":"",
+
   "menubar.selectionForeground": "#f5ebe1",
   "menubar.selectionBackground": "#292858",
   "menubar.selectionBorder": "#292858",
-  "//menu//":"",
+
   "menu.foreground": "#a5a5a5",
   "menu.background": "#161616",
   "menu.selectionForeground": "#f7e8d7",
