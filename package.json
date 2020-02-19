@@ -40,15 +40,14 @@
   },
   "scripts": {
     "build": " node ./build/build.js",
-    "watch":"npm-watch build"
+    "watch": "npm-watch build"
   },
-  "watch":{
-    "patterns":[
-      "themes/src/",
-      "themes/src/colors/"
-    ],
-    "ignores":[
-
-    ]
+  "watch": {
+    "build": {
+      "patterns": [
+        "./themes/src/colors/"
+      ],
+      "ignores": []
+    }
   }
 }
