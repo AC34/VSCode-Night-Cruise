@@ -3,7 +3,6 @@
 		{
 			"name": "Comment",
 			"scope": [
-				"comment",
 			],
 			"settings": {
 				"fontStyle": "italic",
@@ -523,7 +522,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground":"#a79075",
+				"foreground":"#a79075"
 			}
 		},
 		{
@@ -619,4 +618,5 @@
 				"foreground": "#a79075"
 			}
 		}
+	]
 }

@@ -1,0 +1,18 @@
+{
+  "//settings Editor//": "",
+  "settings.headerForeground": "#9d9ca5",
+  "settings.modifiedItemIndicator": "#26dad1",
+  "settings.dropdownBackground": "#1c1c1f",
+  "settings.dropdownForeground": "#bebee0",
+  "settings.dropdownBorder": "#292858",
+  "settings.dropdownListBorder": "#1c1c1f",
+  "settings.checkboxBackground": "#3532db",
+  "settings.checkboxForeground": "#fffce8",
+  "settings.checkboxBorder": "#292858",
+  "settings.textInputBackground": "#1c1c1f",
+  "settings.textInputBorder": "#292858",
+  "settings.textInputForeground": "#d2d2e4",
+  "settings.numberInputBackground": "#1c1c1f",
+  "settings.numberInputBorder": "#292858",
+  "settings.numberInputForeground": "#d2d2e4"
+}
