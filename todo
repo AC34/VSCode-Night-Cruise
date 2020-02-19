@@ -12,11 +12,13 @@ debugIcon
 dunno:
 url green
 listFilterWidget
-unused source code
 editorGutter.commentRangeForeground
 editorHoverWidget
 peekViewResult.fileForeground
 peekViewResult.lineForeground
+editorUnnecessaryCode.border
+textBlockQuote.background
+
 
 problem?
 character on cursor on word highlight gets overriden by new highlight. maybe transparent is doing something wrong?
