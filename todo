@@ -18,7 +18,29 @@ peekViewResult.fileForeground
 peekViewResult.lineForeground
 editorUnnecessaryCode.border
 textBlockQuote.background
-
+symbolIcon.arrayForeground
+symbolIcon.booleanForeground
+symbolIcon.colorForeground
+symbolIcon.constantForeground
+symbolIcon.constructorForeground
+symbolIcon.eventForeground
+symbolIcon.fileForeground
+symbolIcon.folderForeground
+symbolIcon.keyForeground
+symbolIcon.moduleForeground
+symbolIcon.nullForeground
+symbolIcon.numberForeground
+symbolIcon.objectForeground
+symbolIcon.operatorForeground
+symbolIcon.packageForeground
+symbolIcon.referenceForeground
+symbolIcon.stringForeground
+symbolIcon.structForeground
+symbolIcon.textForeground
+symbolIcon.textForeground
+symbolIcon.typeParameterForeground
+symbolIcon.unitForeground
+symbolIcon.variableForeground
 
 problem?
 character on cursor on word highlight gets overriden by new highlight. maybe transparent is doing something wrong?
