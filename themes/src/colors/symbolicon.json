@@ -1,0 +1,13 @@
+{
+  "symbolIcon.classForeground":"#c79f72",
+  "symbolIcon.constructorForeground":"#c79f72",
+  "symbolIcon.enumeratorForeground":"#9296ca",
+  "symbolIcon.enumeratorMemberForeground":"#9296ca",
+  "symbolIcon.fieldForeground":"#9296ca",
+  "symbolIcon.functionForeground":"#706ee0cc",
+  "symbolIcon.interfaceForeground":"#706ee0cc",
+  "symbolIcon.methodForeground":"#706ee0cc",
+  "symbolIcon.namespaceForeground":"#9296ca",
+  "symbolIcon.propertyForeground":"#3d71ff",
+  "symbolIcon.textForeground":"#ff0000"
+}
