@@ -35,7 +35,7 @@
   ],
   "icon": "images/icon.png",
   "devDependencies": {
-    "dxl-builder": "^1.0.3",
+    "dxl-builder": "^1.0.4",
     "npm-watch": "^0.6.0"
   },
   "scripts": {
