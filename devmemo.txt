@@ -17,7 +17,7 @@ publish flow:
  #regsiter publisher
  vsce create-publisher (publisher name)
  #will be asked: username, email,personal access token.
- vsce publish
+ vsce publish (patch/minor/major)
 
 Token:
   scope:
