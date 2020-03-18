@@ -49,5 +49,6 @@
       ],
       "ignores": []
     }
-  }
+  },
+  "dependencies": {}
 }
