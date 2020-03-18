@@ -78,3 +78,7 @@ All notable changes to the "Night Cruise" extension will be documented in this f
 ## [0.0.19] - 2020/2/19
 ### Changed
 - added symbolIcon colors.
+## [0.0.19] - 2020/3/18
+### Changed
+- dependency minimist 0.0.8 -> 1.2.5
+
